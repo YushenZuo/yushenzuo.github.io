@@ -19,7 +19,9 @@ Previously, I am an SDE in Microsoft. Before that, I get my master degree from T
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 'Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning' is accpeted by AI4VA workshop in ECCV 2024. 
-- *2024.04*: &nbsp;🎉🎉 Start my research assistant life in PolyU. 
+- *2024.04*: &nbsp;🎉🎉 Start my research assistant life at The Hong Kong Polytechnic University (PolyU). 
+- *2021.03*: &nbsp;🎉🎉 Rank 10/60 in NTIRE 2021 Challenge on Image Deblurring and our method 'Visual Token Transformer for Image Restoration' is selected to present in the summary paper.
+- *2019.07*: &nbsp;🎉🎉 'Low-resolution palmprint image denoising by generative adversarial networks' is accepted by Neurocomputing 2019. 
 
 # 📝 Publications 
 
@@ -55,6 +57,7 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
 </div>
 
 # 🎖 Honors and Awards
+- *2021.03* CVPR 2021 NTIRE Image Deblurring Challenge - Track1. Low Resolution (10 / 60)
 - *2021.01* Kaggle NFL 1st and Future - Impact Detection, Silver medal (23 / 459)
 
 # 📖 Educations
