@@ -25,7 +25,7 @@ Previously, I am an SDE in Microsoft. Before that, I get my master degree from T
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI4VA@ECCV 2024</div><img src='images/MuvieCastONeSDiff_pipe.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI4VA@ECCV 2024</div><img src='images/MuvieCastONeSDiff_pipe.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
@@ -36,7 +36,7 @@ Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2021</div><img src='images/W21.jpg' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2021</div><img src='images/W21.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NTIRE 2021 Challenge on Image Deblurring](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf)
@@ -46,7 +46,7 @@ Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, **Yushen Z
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2019</div><img src='images/N19.jpg' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2019</div><img src='images/N19.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Low-resolution palmprint image denoising by generative adversarial networks](https://www.sciencedirect.com/science/article/pii/S0925231219307313)
