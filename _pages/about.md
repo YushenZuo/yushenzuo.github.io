@@ -18,6 +18,7 @@ Previously, I am an SDE in Microsoft. Before that, I get my master degree from T
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 A paper is submitted to ICASSP 2025. 
 - *2024.08*: &nbsp;🎉🎉 'Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning' is accpeted by AI4VA workshop in ECCV 2024. 
 - *2024.04*: &nbsp;🎉🎉 Start my research assistant life at The Hong Kong Polytechnic University (PolyU). 
 - *2021.03*: &nbsp;🎉🎉 Rank 10/60 in NTIRE 2021 Challenge on Image Deblurring and our method 'Visual Token Transformer for Image Restoration' is selected to present in the summary paper.
@@ -31,7 +32,7 @@ Previously, I am an SDE in Microsoft. Before that, I get my master degree from T
 <!-- [Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
 Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning
 
-**Yushen Zuo**, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, Zongqi HE, Hao Xie, Kin-man Lam
+**Yushen Zuo**, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, Zongqi HE, Hao Xie, Kin-Man Lam
 
 </div>
 </div>
