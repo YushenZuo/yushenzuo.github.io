@@ -10,9 +10,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Yushen Zuo. Currrently I am a research assistant at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>, mentored by Prof. <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Kenneth K. M. Lam</a>.
+Hi, I am Yushen Zuo. Currrently I am a research assistant at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>, mentored by Prof. <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Kenneth K. M. Lam</a>. I work closely with <a href='https://junxiao01.github.io/'>Jun Xiao</a>.
 
 Previously, I am an SDE in Microsoft. Before that, I get my master degree from Tsinghua University. Before that, I get my bachelor degree from Xidian University.
+
+I am looking for PhD position globally.
 
 Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
