@@ -62,7 +62,7 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
 </div>
 
 # 💻 Work Experience
-- *2022.08 - 2024.03*, Applied Scientist, Microsoft
+- *2022.08 - 2024.03*, Applied Scientist, <a herf='https://www.microsoft.com/en-us'>Microsoft</a>
   - Bing News - Recommendation system
   - Bing Whole Page - Large Language Model Application
 - *2021.07 - 2022.07*, Research Intern, <a herf='https://www.microsoft.com/en-us/research/group/speech/'>Multi-Modal Interaction (MMI) Group</a>, <a herf='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a>
@@ -76,7 +76,7 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
     - Patent: CN114332457A[P]
 
 # 🎖 Honors and Awards
-- *2022.06* `Stars-of-tomorrow' award of Microsoft Research Asia Intern Program.
+- *2022.06* 'Stars-of-tomorrow' award of Microsoft Research Asia Intern Program.
 - *2021.03* CVPR 2021 NTIRE Image Deblurring Challenge - Track1. Low Resolution (10 / 60)
 - *2021.01* Kaggle NFL 1st and Future - Impact Detection, Silver medal (23 / 459)
 - *2020.12* Champion of the 1st Ocean Target Detection International Challenge (1 / 151)
