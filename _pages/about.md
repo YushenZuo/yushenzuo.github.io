@@ -12,7 +12,7 @@ redirect_from:
 
 I am Yushen Zuo, currently a research assistant at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>, working under the guidance of <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth K. M. Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Jun Xiao</a>.
 
-Prior to this, I was a Software Development Engineer at Microsoft. I hold a master's degree from Tsinghua University and a bachelor's degree from Xidian University. 
+Prior to this, I was an Applied Scientist at Microsoft. Before that, I was interned at <a herf='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> and <a herf='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>. I hold a master's degree from Tsinghua University and a bachelor's degree from Xidian University. 
 
 I am actively seeking PhD opportunities worldwide.
 
@@ -61,15 +61,28 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
 </div>
 </div>
 
+# 💻 Work Experience
+- *2022.08 - 2024.03*, Applied Scientist, Microsoft
+  - Bing News - Recommendation system
+  - Bing Whole Page - Large Language Model Application
+- *2021.07 - 2022.07*, Research Intern, <a herf='https://www.microsoft.com/en-us/research/group/speech/'>Multi-Modal Interaction (MMI) Group</a>, <a herf='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a>
+  - Rotated object detection (multi-directional table detection)
+    - Design an anchor-free two-stage detector for rotated object detection.
+    - Achieve state-of-the-art performance in production dataset and contribute to Azure OCR API (3B monthly activate user).
+- *2020.10 - 2021.05*, Research Intern, <a herf='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>
+  - UniInst: Detection free and NMS free instance segmentation
+    - Instance-aware One-to-one Assignment and MaskIOU Branch.
+    - SOTA mask AP on COCO test-dev 2017 dataset and OCHuman dataset.
+    - Patent: CN114332457A[P]
+
 # 🎖 Honors and Awards
+- *2022.06* `Stars-of-tomorrow' award of Microsoft Research Asia Intern Program.
 - *2021.03* CVPR 2021 NTIRE Image Deblurring Challenge - Track1. Low Resolution (10 / 60)
 - *2021.01* Kaggle NFL 1st and Future - Impact Detection, Silver medal (23 / 459)
+- *2020.12* Champion of the 1st Ocean Target Detection International Challenge (1 / 151)
+- *2018.05* Meritorious winner in Interdisciplinary Contest in Modeling (ICM)
 
 # 📖 Educations
 - *2019.06 - 2022.06*, Tsinghua University.
 - *2015.09 - 2019.06*, Xidian University.
 
-
-# 💻 Internships
-- *2021.07 - 2022.07*, Microsoft Research Asia
-- *2020.10 - 2021.05*, Tencent Youtu Lab
