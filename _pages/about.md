@@ -12,7 +12,7 @@ redirect_from:
 
 I am Yushen Zuo, currently a research assistant at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>, working under the guidance of <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth K. M. Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Jun Xiao</a>.
 
-Prior to this, I was an Applied Scientist at Microsoft. Before that, I was interned at <a herf='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> and <a herf='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>. I hold a master's degree from Tsinghua University and a bachelor's degree from Xidian University. 
+Prior to this, I was an Applied Scientist at <a herf='https://www.microsoft.com/en-us'>Microsoft</a>. Before that, I was interned at <a herf='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> and <a herf='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>. I hold a master's degree from Tsinghua University and a bachelor's degree from Xidian University. 
 
 I am actively seeking PhD opportunities worldwide.
 
@@ -69,6 +69,7 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
   - Rotated object detection (multi-directional table detection)
     - Design an anchor-free two-stage detector for rotated object detection.
     - Achieve state-of-the-art performance in production dataset and contribute to Azure OCR API (3B monthly activate user).
+    - 'Stars-of-tomorrow' award of MSRA Intern Program.
 - *2020.10 - 2021.05*, Research Intern, <a herf='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>
   - UniInst: Detection free and NMS free instance segmentation
     - Instance-aware One-to-one Assignment and MaskIOU Branch.
