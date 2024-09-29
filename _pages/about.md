@@ -23,6 +23,7 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 A paper is submitted to ICASSP 2025. 
+- *2024.08*: &nbsp;🎉🎉 2nd place in AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content.
 - *2024.08*: &nbsp;🎉🎉 'Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning' is accpeted by AI4VA workshop in ECCV 2024. 
 - *2024.04*: &nbsp;🎉🎉 Start my research assistant life at The Hong Kong Polytechnic University (PolyU). 
 - *2021.03*: &nbsp;🎉🎉 Rank 10/60 in NTIRE 2021 Challenge on Image Deblurring and our method 'Visual Token Transformer for Image Restoration' is selected to present in the summary paper.
@@ -77,6 +78,7 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
     - Patent: CN114332457A[P]
 
 # 🎖 Honors and Awards
+- *2024.08* AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content - 2nd place.
 - *2022.06* 'Stars-of-tomorrow' award of Microsoft Research Asia Intern Program.
 - *2021.03* CVPR 2021 NTIRE Image Deblurring Challenge - Track1. Low Resolution (10 / 60)
 - *2021.01* Kaggle NFL 1st and Future - Impact Detection, Silver medal (23 / 459)
