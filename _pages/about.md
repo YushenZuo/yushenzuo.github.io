@@ -63,6 +63,11 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
 </div>
 
 # 💻 Work Experience
+- *2024.04 - Now*, Research Assistant, <a href='https://www.polyu.edu.hk/en/'>PolyU</a>
+  - Accelerated Diffusion in Image Processing Task
+  - Efficient Video Super-Resolution
+  - Better Novel-view synthesis with 3D Gaussian Splatting
+  - Image Processing in vision-language model safety and defense
 - *2022.08 - 2024.03*, Applied Scientist, <a href='https://www.microsoft.com/en-us'>Microsoft</a>
   - Bing News - Recommendation system
   - Bing Whole Page - Large Language Model Application
