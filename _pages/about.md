@@ -70,7 +70,19 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
   - Image Processing in vision-language model safety and defense
 - *2022.08 - 2024.03*, Applied Scientist, <a href='https://www.microsoft.com/en-us'>Microsoft</a>
   - Bing News - Recommendation system
+    - Explainable AI
+      - Use SHAP to calculate feature contribution to ranking score for a better explanation of model's output.
+      - Show users why he/she sees this recommended content based on the recall path with a mapping method.
+      - Currently applied to all Bing News channels (e.g. Edge homepage), while collecting user's feedback to modify the mapping method.-
+    - Dynamic quota allocation-
+      - Train a classification model to determine whether a news recommendation request is triggered by user or by prerender/other backend tasks based on request's features and the corresponding user's engagement features. (Result: AUC > 0.8 in test dataset built on Bing News Recommendation database)
+      - Based on the result of classification model, reduce the quota of each recall path in Ranker for requests predicted to be `Not User-trigger' to reduce computational cost.
+      - Product performance: Reduce 20% computing resources usage without losing performance.
   - Bing Whole Page - Large Language Model Application
+    - Answer triggering in Bing Search - Real Estate Related
+      - Use LLM (GPT-3.5) to label challenging samples from web result and get 1.3M new training samples.
+      - Recall in test dateset improved from 0.54 to 0.73 after training with new training set with LLM labeling.
+      - Product performance: 3\% increase in answer trigger rate (answer triggers Bing real estate application) in Bing search, and 4.1K gain in DAU (Daily Active Users) of Bing real estate application.
 - *2021.07 - 2022.07*, Research Intern, <a href='https://www.microsoft.com/en-us/research/group/speech/'>Multi-Modal Interaction (MMI) Group</a>, <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a>
   - Rotated object detection (multi-directional table detection)
     - Design an anchor-free two-stage detector for rotated object detection.
