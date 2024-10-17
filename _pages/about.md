@@ -12,7 +12,7 @@ redirect_from:
 
 I am Yushen Zuo, currently a research assistant at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>, working under the guidance of <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth K. M. Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Jun Xiao</a>.
 
-Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a>. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>. I hold a master's degree from <a herf='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a> and a bachelor's degree from <a herf='https://en.xidian.edu.cn/'>Xidian University</a>. 
+Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a>. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>. I hold a master's degree from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a> and a bachelor's degree from <a href='https://en.xidian.edu.cn/'>Xidian University</a>. 
 
 I am actively seeking PhD opportunities worldwide. My research areas include low-level vision; image translation and generation; object detection and segmentation; vision-language model safety. 
 
@@ -76,7 +76,7 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
 </div>
 
 # 💻 Work Experience
-- *2024.04 - Now*, Research Assistant, <a href='https://www.polyu.edu.hk/en/'>PolyU</a>
+- *2024.04 - Now*, Research Assistant, <a href='https://www.polyu.edu.hk/en/'>The Hong Kong Polytechnic University (PolyU)</a>
   - Artificial Intelligence and Signal Processing Laboratory
     - Accelerated Diffusion in Image Processing Task (e.g., Style Transfer, Image Translation)
     - Efficient Video Super-Resolution
@@ -89,7 +89,7 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
       - Use SHAP to calculate feature contribution to ranking score for a better explanation of model's output.
       - Show users why he/she sees this recommended content based on the recall path with a mapping method.
       - Currently applied to all Bing News channels (e.g. Edge homepage), while collecting user's feedback to modify the mapping method.-
-    - Dynamic quota allocation-
+    - Dynamic quota allocation
       - Train a classification model to determine whether a news recommendation request is triggered by user or by prerender/other backend tasks based on request's features and the corresponding user's engagement features. (Result: AUC > 0.8 in test dataset built on Bing News Recommendation database)
       - Based on the result of classification model, reduce the quota of each recall path in Ranker for requests predicted to be `Not User-trigger' to reduce computational cost.
       - Product performance: Reduce 20% computing resources usage without losing performance.
@@ -110,12 +110,12 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
     - Patent: CN114332457A[P]
 
 # 🎖 Honors and Awards
-- *2024.08* AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content - 2nd place.
-- *2022.06* 'Stars-of-tomorrow' award of Microsoft Research Asia Intern Program.
-- *2021.03* CVPR 2021 NTIRE Image Deblurring Challenge - Track1. Low Resolution (10 / 60)
-- *2021.01* Kaggle NFL 1st and Future - Impact Detection, Silver medal (23 / 459)
-- *2020.12* Champion of the 1st Ocean Target Detection International Challenge (1 / 151)
-- *2018.05* Meritorious winner in Interdisciplinary Contest in Modeling (ICM)
+- *2024.08*  AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content - 2nd place.
+- *2022.06*  'Stars-of-tomorrow' award of Microsoft Research Asia Intern Program.
+- *2021.03*  CVPR 2021 NTIRE Image Deblurring Challenge - Track1. Low Resolution (10 / 60)
+- *2021.01*  Kaggle NFL 1st and Future - Impact Detection, Silver medal (23 / 459)
+- *2020.12*  Champion of the 1st Ocean Target Detection International Challenge (1 / 151)
+- *2018.05*  Meritorious winner in Interdisciplinary Contest in Modeling (ICM)
 
 # 📖 Educations
 - *2019.06 - 2022.06*, Tsinghua University.
