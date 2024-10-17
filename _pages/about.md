@@ -12,9 +12,11 @@ redirect_from:
 
 I am Yushen Zuo, currently a research assistant at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>, working under the guidance of <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth K. M. Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Jun Xiao</a>.
 
-Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a>. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>. I hold a master's degree from Tsinghua University and a bachelor's degree from Xidian University. 
+Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a>. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>. I hold a master's degree from <a herf='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a> and a bachelor's degree from <a herf='https://en.xidian.edu.cn/'>Xidian University</a>. 
 
-I am actively seeking PhD opportunities worldwide. My research areas include low-level vision, image translation and generation, object detection, and vision-language model safety. Here is my <a href="cv/Yushen_CV.pdf">**CV**</a>.
+I am actively seeking PhD opportunities worldwide. My research areas include low-level vision; image translation and generation; object detection and segmentation; vision-language model safety. 
+
+Here is my <a href="cv/Yushen_CV_Oct2024.pdf">**CV**</a>.
 
 Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -23,7 +25,7 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 A paper is submitted to ICASSP 2025. 
-- *2024.08*: &nbsp;🎉🎉 2nd place in AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content.
+- *2024.08*: &nbsp;🎉🎉 2nd place in <a herf='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> (ECCV 2024 Workshop) our method 'Fast Sequential Motion Diffusion (FSMD)' is selected to present in the summary paper.
 - *2024.08*: &nbsp;🎉🎉 'Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning' is accpeted by AI4VA workshop in ECCV 2024. 
 - *2024.04*: &nbsp;🎉🎉 Start my research assistant life at The Hong Kong Polytechnic University (PolyU). 
 - *2021.03*: &nbsp;🎉🎉 Rank 10/60 in NTIRE 2021 Challenge on Image Deblurring and our method 'Visual Token Transformer for Image Restoration' is selected to present in the summary paper.
@@ -38,6 +40,17 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning
 
 **Yushen Zuo**, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, Zongqi HE, Hao Xie, Kin-Man Lam
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- [Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
+[AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content](https://arxiv.org/pdf/2409.17256)
+
+Marcos V. Conde, Zhijun Lei, Wen Li, Christos Bampis, Ioannis Katsavounidis, Radu Timofte, **Yushen Zuo** et al.
 
 </div>
 </div>
@@ -64,10 +77,12 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
 
 # 💻 Work Experience
 - *2024.04 - Now*, Research Assistant, <a href='https://www.polyu.edu.hk/en/'>PolyU</a>
-  - Accelerated Diffusion in Image Processing Task
-  - Efficient Video Super-Resolution
-  - Better Novel-view synthesis with 3D Gaussian Splatting
-  - Image Processing in vision-language model safety and defense
+  - Artificial Intelligence and Signal Processing Laboratory
+    - Accelerated Diffusion in Image Processing Task (e.g., Style Transfer, Image Translation)
+    - Efficient Video Super-Resolution
+    - Old movie restoration and enhancement
+    - Novel-view synthesis with 3D Gaussian Splatting
+    - Image Processing and Diffusion in vision-language model safety and defense
 - *2022.08 - 2024.03*, Applied Scientist, <a href='https://www.microsoft.com/en-us'>Microsoft</a>
   - Bing News - Recommendation system
     - Explainable AI
