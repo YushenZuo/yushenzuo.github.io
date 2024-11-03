@@ -26,8 +26,10 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 A paper is submitted to **ICASSP 2025**. 
 - *2024.08*: &nbsp;🎉🎉 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> (**ECCV 2024 Workshop**) our method 'Fast Sequential Motion Diffusion (FSMD)' is selected to present in the summary <a href='https://arxiv.org/pdf/2409.17256'>paper</a>.
-- *2024.08*: &nbsp;🎉🎉 'Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning' is accpeted by AI4VA workshop in **ECCV 2024**. 
-- *2024.04*: &nbsp;🎉🎉 Start my research assistant life at The Hong Kong Polytechnic University (PolyU). 
+- *2024.08*: &nbsp;🎉🎉 'Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning' is accpeted by <a href='https://sites.google.com/view/ai4vaeccv2024'>AI4VA workshop</a> in **ECCV 2024**. 
+- *2024.04*: &nbsp;🎉🎉 Start my research assistant life at The Hong Kong Polytechnic University (PolyU).
+- *2022.06*: &nbsp;🎉🎉 'Stars-of-tomorrow' award of MSRA Intern Program.
+- *2021.07*: &nbsp;🎉🎉 Join Microsoft Research Asia (MSRA) as a research intern and cooperate with Azure OCR for multi-directional table detection in PDF image.
 - *2021.03*: &nbsp;🎉🎉 Rank 10/60 in <a href='https://competitions.codalab.org/competitions/28073'>NTIRE 2021 Challenge on Image Deblurring</a> (**CVPR 2021 Workshop**) and our method 'Visual Token Transformer for Image Restoration' is selected to present in the summary <a href='https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf'>paper</a>.
 - *2019.07*: &nbsp;🎉🎉 'Low-resolution palmprint image denoising by generative adversarial networks' is accepted by **Neurocomputing 2019**. 
 
@@ -76,13 +78,13 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
 </div>
 
 # 💻 Work and Research Experience
-- *2024.04 - Now*, Research Assistant, <a href='https://www.polyu.edu.hk/en/'>The Hong Kong Polytechnic University (PolyU)</a>
+- **2024.04 - Now**, Research Assistant, <a href='https://www.polyu.edu.hk/en/'>The Hong Kong Polytechnic University (PolyU)</a>
   - Artificial Intelligence and Signal Processing Laboratory
     - Accelerated Diffusion in Image Processing Task (e.g., Style Transfer, Image Translation)
       - Focus on the stylization of multi-view images in 3D scenes and proposed OSDiffST, a novel style transfer method based on a one-step diffusion model.
       - Incorporate LoRA adapters to rapidly adapt the pre-trained diffusion model for style transfer. Propose a vision condition module for efficient style information extraction and injection.
       - Use two additional loss functions to align color distribution and improve structural similarity for enhancing visual quality and maintaining multi-view consistency across images from different viewpoints.
-      - Research paper is accepted by the AI for Visual Arts Workshop and Challenges in **ECCV 2024**.
+      - Research paper is accepted by the <a href='https://sites.google.com/view/ai4vaeccv2024'>AI for Visual Arts Workshop and Challenges (AI4VA)</a> in **ECCV 2024**.
     - Efficient Video Super-Resolution
       - Focus on real-time video super resolution.
       - Proposed Fast Sequential Motion Diffusion (FSMD) to achieve real time video super resolution.
@@ -90,7 +92,7 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
     - Old movie restoration and enhancement
     - Novel-view synthesis with 3D Gaussian Splatting
     - Image Processing and Diffusion in vision-language model safety and defense
-- *2022.08 - 2024.03*, Applied Scientist, <a href='https://www.microsoft.com/en-us'>Microsoft</a>
+- **2022.08 - 2024.03**, Applied Scientist, <a href='https://www.microsoft.com/en-us'>Microsoft</a>
   - Bing News - Recommendation system
     - Explainable AI
       - Use SHAP to calculate feature contribution to ranking score for a better explanation of model's output.
@@ -105,17 +107,17 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
       - Use LLM (GPT-3.5) to label challenging samples from web result and get 1.3M new training samples.
       - Recall in test dateset improved from 0.54 to 0.73 after training with new training set with LLM labeling.
       - Product performance: 3\% increase in answer trigger rate (answer triggers Bing real estate application) in Bing search, and 4.1K gain in DAU (Daily Active Users) of Bing real estate application.
-- *2021.07 - 2022.07*, Research Intern, <a href='https://www.microsoft.com/en-us/research/group/speech/'>Multi-Modal Interaction (MMI) Group</a>, <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a>
-  - Rotated object detection (multi-directional table detection)
+- **2021.07 - 2022.07**, Research Intern, <a href='https://www.microsoft.com/en-us/research/group/speech/'>Multi-Modal Interaction (MMI) Group</a>, <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a>
+  - Rotated object detection (multi-directional table detection in PDF image)
     - Design an anchor-free two-stage detector for rotated object detection.
     - Achieve state-of-the-art performance in production dataset and contribute to Azure OCR API (3B monthly activate user).
     - 'Stars-of-tomorrow' award of MSRA Intern Program.
-- *2020.10 - 2021.05*, Research Intern, <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>
+- **2020.10 - 2021.05**, Research Intern, <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>
   - UniInst: Detection free and NMS free instance segmentation
     - Instance-aware One-to-one Assignment and MaskIOU Branch.
     - SOTA mask AP on COCO test-dev 2017 dataset and OCHuman dataset.
     - Patent: CN114332457A[P]
-- *2020.05 - 2021.06*, Postgraduate, <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a>
+- **2020.05 - 2021.06**, Postgraduate, <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a>
   - Visual Token Transformer for Image Restoration
     - First attempt to use visual token-based transformer in image restoration.
     - Neural network learn to divide images into different groups and map them to visual tokens without manual rules.
@@ -123,7 +125,7 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
     - Token-based transformer reduces computation cost from $O(n^{2})$ to $O(n)$ compared to vanilla transformer with comparable image restoration performance.
     - Included in <a href='https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf'>NTIRE 2021 Challenge on Image Deblurring</a> (**CVPR 2021 Workshop**). (10 / 60)
     - Project report (Applied in various low-level vision tasks): <a href='https://drive.google.com/file/d/1g4MtypKjdK4lX4i9TGwItAlo5FGFw-00/view?usp=sharing'>Visual Token Transformer for Image Restoration.pdf</a>.
-- *2019.01 - 2019.06*, Postgraduate, <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a>
+- **2019.01 - 2019.06**, Postgraduate, <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a>
   - Low Resolution Palmprint Image Denoising
     - Palmprint recognition methods are sensitive to image noise and need an effective denoising algorithm.
     - First attempt at end-to-end denoising of low-resolution palmprint images by neural networks.
