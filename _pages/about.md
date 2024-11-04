@@ -31,7 +31,7 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 - *2022.07*: &nbsp;🎉🎉 Join <a href='https://www.microsoft.com/en-us'>Microsoft</a> as an applied scientist.
 - *2022.06*: &nbsp;🎉🎉 'Stars-of-tomorrow' award of MSRA Intern Program.
 - *2021.07*: &nbsp;🎉🎉 Join <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia (MSRA)</a> as a research intern and cooperate with Azure OCR for multi-directional table detection in PDF image.
-- *2021.03*: &nbsp;🎉🎉 Rank 10/60 in <a href='https://competitions.codalab.org/competitions/28073'>NTIRE 2021 Challenge on Image Deblurring</a> (**CVPR 2021 Workshop**) and our method **Visual Token Transformer for Image Restoration** is selected to present in the summary <a href='https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf'>paper</a>.
+- *2021.03*: &nbsp;🎉🎉 Rank 10 / 60 in <a href='https://competitions.codalab.org/competitions/28073'>NTIRE 2021 Challenge on Image Deblurring</a> in **CVPR 2021** and our method **Visual Token Transformer for Image Restoration** is selected to present in the summary <a href='https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf'>paper</a>.
 - *2019.07*: &nbsp;🎉🎉 Our paper <a href='https://www.sciencedirect.com/science/article/pii/S0925231219307313'>Low-resolution palmprint image denoising by generative adversarial networks</a> is accepted by **Neurocomputing 2019**. 
 
 # 📝 Publications 
@@ -89,7 +89,7 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
     - Efficient Video Super-Resolution
       - Focus on real-time video super resolution.
       - Proposed Fast Sequential Motion Diffusion (FSMD) to achieve real time video super resolution.
-      - 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> (**ECCV 2024 Workshop**)
+      - 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> in **ECCV 2024**.
     - Old movie restoration and enhancement
     - Novel-view synthesis with 3D Gaussian Splatting
     - Image Processing and Diffusion in vision-language model safety and defense
@@ -124,7 +124,7 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
     - Neural network learn to divide images into different groups and map them to visual tokens without manual rules.
     - Design transformer block based on visual token to extract the non-local/multi-scale self-similarity of image.
     - Token-based transformer reduces computation cost from $O(n^{2})$ to $O(n)$ compared to vanilla transformer with comparable image restoration performance.
-    - Included in <a href='https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf'>NTIRE 2021 Challenge on Image Deblurring</a> (**CVPR 2021 Workshop**). (10 / 60)
+    - Included in <a href='https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf'>NTIRE 2021 Challenge on Image Deblurring</a> in **CVPR 2021**. (10 / 60)
     - Project report (Applied in various low-level vision tasks): <a href='https://drive.google.com/file/d/1g4MtypKjdK4lX4i9TGwItAlo5FGFw-00/view?usp=sharing'>Visual Token Transformer for Image Restoration.pdf</a>.
 - **2019.01 - 2019.06**, Postgraduate, <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a>
   - Low Resolution Palmprint Image Denoising
@@ -132,7 +132,7 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
     - First attempt at end-to-end denoising of low-resolution palmprint images by neural networks.
     - Design a generative adversarial network (GAN)-based model to address multiple types of noise in palmprint image and reserve more orientation information with Gabor loss in training.
     - Collect Data from PolyU palmprint database and IITD database to build train/test dataset and generate noisy image by adding different types of noise.
-    - Outperforms existing state-of-the-art methods in both image denoising quality and palmprint recognition accuracy in test dataset with different types of noise. Average EER (equal error rate) of palmprint recognition decreased from 10.841\% to 1.532\% after denoising.
+    - Outperforms existing state-of-the-art methods in both image denoising quality and palmprint recognition accuracy in test dataset with different types of noise. Average EER (equal error rate) of palmprint recognition decreased from 10.841% to 1.532% after denoising.
 
 
 # 🎖 Honors and Awards
