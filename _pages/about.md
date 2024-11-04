@@ -27,9 +27,10 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 - *2024.09*: &nbsp;🎉🎉 A paper is submitted to **ICASSP 2025**. 
 - *2024.08*: &nbsp;🎉🎉 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> (**ECCV 2024 Workshop**) our method 'Fast Sequential Motion Diffusion (FSMD)' is selected to present in the summary <a href='https://arxiv.org/pdf/2409.17256'>paper</a>.
 - *2024.08*: &nbsp;🎉🎉 'Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning' is accpeted by <a href='https://sites.google.com/view/ai4vaeccv2024'>AI4VA workshop</a> in **ECCV 2024**. 
-- *2024.04*: &nbsp;🎉🎉 Start my research assistant life at The Hong Kong Polytechnic University (PolyU).
+- *2024.04*: &nbsp;🎉🎉 Join <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a> as a research assistant.
+- *2022.07*: &nbsp;🎉🎉 Join <a href='https://www.microsoft.com/en-us'>Microsoft</a> as an applied scientist.
 - *2022.06*: &nbsp;🎉🎉 'Stars-of-tomorrow' award of MSRA Intern Program.
-- *2021.07*: &nbsp;🎉🎉 Join Microsoft Research Asia (MSRA) as a research intern and cooperate with Azure OCR for multi-directional table detection in PDF image.
+- *2021.07*: &nbsp;🎉🎉 Join <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia (MSRA)</a> as a research intern and cooperate with Azure OCR for multi-directional table detection in PDF image.
 - *2021.03*: &nbsp;🎉🎉 Rank 10/60 in <a href='https://competitions.codalab.org/competitions/28073'>NTIRE 2021 Challenge on Image Deblurring</a> (**CVPR 2021 Workshop**) and our method 'Visual Token Transformer for Image Restoration' is selected to present in the summary <a href='https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf'>paper</a>.
 - *2019.07*: &nbsp;🎉🎉 'Low-resolution palmprint image denoising by generative adversarial networks' is accepted by **Neurocomputing 2019**. 
 
