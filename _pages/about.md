@@ -24,13 +24,13 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 A paper is submitted to **ICASSP 2025**. 
+- *2024.09*: &nbsp;🎉🎉 Our research paper for enhancing 3D Gaussian Splatting in novel view synthesis under sparse view is submitted to **ICASSP 2025**. 
 - *2024.08*: &nbsp;🎉🎉 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> **in ECCV 2024** and our method **Fast Sequential Motion Diffusion (FSMD)** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.17256'>paper</a>.
 - *2024.08*: &nbsp;🎉🎉 Our paper **Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning** is accpeted by <a href='https://sites.google.com/view/ai4vaeccv2024'>AI for Visual Arts Workshop and Challenges (AI4VA)</a> in **ECCV 2024**. 
 - *2024.04*: &nbsp;🎉🎉 Join <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a> as a research assistant.
 - *2022.07*: &nbsp;🎉🎉 Join <a href='https://www.microsoft.com/en-us'>Microsoft</a> as an applied scientist.
-- *2022.06*: &nbsp;🎉🎉 'Stars-of-tomorrow' award of MSRA Intern Program.
-- *2021.07*: &nbsp;🎉🎉 Join <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia (MSRA)</a> as a research intern and cooperate with Azure OCR for multi-directional table detection in PDF image.
+- *2022.06*: &nbsp;🎉🎉 'Stars-of-tomorrow' award of MSRA Internship Program.
+- *2021.07*: &nbsp;🎉🎉 Join <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia (MSRA)</a> as a research intern and cooperate with Azure OCR team for multi-directional table detection in PDF image.
 - *2021.03*: &nbsp;🎉🎉 Rank 10 / 60 in <a href='https://competitions.codalab.org/competitions/28073'>NTIRE 2021 Challenge on Image Deblurring</a> in **CVPR 2021** and our method **Visual Token Transformer for Image Restoration** is selected to present in the summary <a href='https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf'>paper</a>.
 - *2019.07*: &nbsp;🎉🎉 Our paper <a href='https://www.sciencedirect.com/science/article/pii/S0925231219307313'>Low-resolution palmprint image denoising by generative adversarial networks</a> is accepted by **Neurocomputing 2019**. 
 
@@ -81,18 +81,23 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
 # 💻 Work and Research Experience
 - **2024.04 - Now**, Research Assistant, <a href='https://www.polyu.edu.hk/en/'>The Hong Kong Polytechnic University (PolyU)</a>
   - Artificial Intelligence and Signal Processing Laboratory
-    - Accelerated Diffusion in Image Processing Task (e.g., Style Transfer, Image Translation)
+    - Accelerated Diffusion for Image Processing (e.g., Style Transfer, Image Translation)
       - Focus on the stylization of multi-view images in 3D scenes and proposed OSDiffST, a novel style transfer method based on a one-step diffusion model.
       - Incorporate LoRA adapters to rapidly adapt the pre-trained diffusion model for style transfer. Propose a vision condition module for efficient style information extraction and injection.
-      - Use two additional loss functions to align color distribution and improve structural similarity for enhancing visual quality and maintaining multi-view consistency across images from different viewpoints.
+      - Use two additional loss functions to align color distribution and improve structural similarity for enhancing visual quality and maintaining multi-view consistency across images from different viewpoints after stylization.
       - Research paper is accepted by the <a href='https://sites.google.com/view/ai4vaeccv2024'>AI for Visual Arts Workshop and Challenges (AI4VA)</a> in **ECCV 2024**.
+      - We are now expanding our approach by designing new adapter and applying our framework to more image processing task (e.g., image translation).
     - Efficient Video Super-Resolution
       - Focus on real-time video super resolution.
       - Proposed Fast Sequential Motion Diffusion (FSMD) to achieve real time video super resolution.
       - 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> in **ECCV 2024**.
-    - Old movie restoration and enhancement
-    - Novel-view synthesis with 3D Gaussian Splatting
+    <!-- - Old movie restoration and enhancement -->
+    - Novel view synthesis under sparse view with 3D Gaussian Splatting
+      - Focus on enhancing 3D Gaussian Splatting for novel view synthesis under sparse view based on local depth and semantic regularization.
+      - Our research paper is submitted to **ICASSP 2025**.
     - Image Processing and Diffusion in vision-language model safety and defense
+      - Explores VLM safety and the effectiveness in defense.
+      - Research paper is planned to submit to **CVPR 2025**.
 - **2022.08 - 2024.03**, Applied Scientist, <a href='https://www.microsoft.com/en-us'>Microsoft</a>
   - Bing News - Recommendation system
     - Explainable AI
@@ -106,16 +111,20 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
   - Bing Whole Page - Large Language Model Application
     - Answer triggering in Bing Search - Real Estate Related
       - Use LLM (GPT-3.5) to label challenging samples from web result and get 1.3M new training samples.
-      - Recall in test dateset improved from 0.54 to 0.73 after training with new training set with LLM labeling.
-      - Product performance: 3\% increase in answer trigger rate (answer triggers Bing real estate application) in Bing search, and 4.1K gain in DAU (Daily Active Users) of Bing real estate application.
+      - Train answer triggering model based on new training set augmented with samples by LLM labeling.
+      - Recall in test dateset improved from 0.54 to 0.73.
+      - Product performance: 3% increase in answer trigger rate (answer triggers Bing real estate application) in Bing search, and 4.1K gain in DAU (Daily Active Users) of Bing real estate application.
 - **2021.07 - 2022.07**, Research Intern, <a href='https://www.microsoft.com/en-us/research/group/speech/'>Multi-Modal Interaction (MMI) Group</a>, <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a>
   - Rotated object detection (multi-directional table detection in PDF image)
     - Design an anchor-free two-stage detector for rotated object detection.
+    - Design sequence-invariant loss and relative-offset for rotated object detector training.
+    - Stable performance under different image rotation angles in production dataset (F-score fluctuation < 0.02).
     - Achieve state-of-the-art performance in production dataset and contribute to Azure OCR API (3B monthly activate user).
-    - 'Stars-of-tomorrow' award of MSRA Intern Program.
+    - 'Stars-of-tomorrow' award of MSRA Internship Program.
 - **2020.10 - 2021.05**, Research Intern, <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>
   - UniInst: Detection free and NMS free instance segmentation
-    - Instance-aware One-to-one Assignment and MaskIOU Branch.
+    - Instance-aware One-to-one Assignment: Use Hungarian matching to assign the best matching feature point to the target as positive point according to the classification score and segmentation mask accuracy.
+    - MaskIOU Branch: During training, learn to predict the IOU of the generated Mask. During inference, multiply it's IOU prediction for generated masks with the classification score as the final confidence.
     - SOTA mask AP on COCO test-dev 2017 dataset and OCHuman dataset.
     - Patent: CN114332457A[P]
 - **2020.05 - 2021.06**, Postgraduate, <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a>
