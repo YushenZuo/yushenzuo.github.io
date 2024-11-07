@@ -24,7 +24,7 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Our research paper for enhancing 3D Gaussian Splatting in novel view synthesis under sparse view is submitted to **ICASSP 2025**. 
+- *2024.09*: &nbsp;🎉🎉 Our paper for enhancing 3D Gaussian Splatting for novel view synthesis under sparse view is submitted to **ICASSP 2025**. 
 - *2024.08*: &nbsp;🎉🎉 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> **in ECCV 2024** and our method **Fast Sequential Motion Diffusion (FSMD)** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.17256'>paper</a>.
 - *2024.08*: &nbsp;🎉🎉 Our paper **Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning** is accpeted by <a href='https://sites.google.com/view/ai4vaeccv2024'>AI for Visual Arts Workshop and Challenges (AI4VA)</a> in **ECCV 2024**. 
 - *2024.04*: &nbsp;🎉🎉 Join <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a> as a research assistant.
@@ -96,7 +96,7 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
       - Focus on enhancing 3D Gaussian Splatting for novel view synthesis under sparse view based on local depth and semantic regularization.
       - Our research paper is submitted to **ICASSP 2025**.
     - Image Processing and Diffusion in vision-language model safety and defense
-      - Explores VLM safety and the effectiveness in defense.
+      - Explores VLM safety and the effectiveness of diffusion in defense.
       - Research paper is planned to submit to **CVPR 2025**.
 - **2022.08 - 2024.03**, Applied Scientist, <a href='https://www.microsoft.com/en-us'>Microsoft</a>
   - Bing News - Recommendation system
