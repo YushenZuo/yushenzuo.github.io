@@ -40,8 +40,8 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI4VA@ECCV 2024</div><img src='images/MuvieCastONeSDiff_pipe.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!-- [Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
-Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning
+[Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning](https://arxiv.org/pdf/2411.10130)
+<!-- Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning -->
 
 **Yushen Zuo**, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, Zongqi HE, Hao Xie, Kin-Man Lam
 
