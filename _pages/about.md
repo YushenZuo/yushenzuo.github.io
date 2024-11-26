@@ -158,4 +158,4 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
 - *2015.09 - 2019.06*, Xidian University.
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=IsWL1bUO4XiHmP_fOnirWaUkR5c2kK5AlF1WA8PRDDo'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=IsWL1bUO4XiHmP_fOnirWaUkR5c2kK5AlF1WA8PRDDo&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
