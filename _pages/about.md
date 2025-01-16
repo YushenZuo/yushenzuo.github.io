@@ -95,7 +95,7 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
     <!-- - Old movie restoration and enhancement -->
     - Novel view synthesis under sparse view with 3D Gaussian Splatting
       - Focus on enhancing 3D Gaussian Splatting for novel view synthesis under sparse view based on local depth and semantic regularization.
-      - Our research paper is submitted to **ICASSP 2025**.
+      - Our research paper is accepted by **ICASSP 2025**.
     - Image Processing and Diffusion in vision-language model safety and defense
       - Explores VLM safety and the effectiveness of diffusion in defense.
       - Research paper is planned to submit to **CVPR 2025**.
