@@ -16,7 +16,7 @@ Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/
 
 I am actively seeking PhD opportunities worldwide. My research areas include low-level vision; image translation and generation; object detection and segmentation; 3D vision; vision-language model safety. 
 
-Here is my <a href="cv/Yushen_CV_Nov2024.pdf">**CV**</a>.
+Here is my <a href="cv/CV_YushenZuo_Dec2024.pdf">**CV**</a>.
 
 Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
