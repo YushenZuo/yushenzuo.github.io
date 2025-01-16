@@ -14,7 +14,7 @@ Hello, I am Yushen Zuo, currently a research assistant at <a href='https://www.p
 
 Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a>. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>. I hold a master's degree from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a> and a bachelor's degree from <a href='https://en.xidian.edu.cn/'>Xidian University</a>. 
 
-I am actively seeking PhD opportunities worldwide. My research areas include low-level vision; image translation and generation; object detection and segmentation; vision-language model safety. 
+I am actively seeking PhD opportunities worldwide. My research areas include low-level vision; image translation and generation; object detection and segmentation; 3D vision; vision-language model safety. 
 
 Here is my <a href="cv/Yushen_CV_Nov2024.pdf">**CV**</a>.
 
@@ -24,8 +24,8 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 Our paper for Vision-Language Model (VLM) safety is submitted to **CVPR 2025**. 
-- *2024.09*: &nbsp;🎉🎉 Our paper for enhancing 3D Gaussian Splatting for novel view synthesis under sparse view is submitted to **ICASSP 2025**. 
+- *2025.01*: &nbsp;🎉🎉 Our paper **See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization** is accpeted by **ICASSP 2025**.
+- *2024.11*: &nbsp;🎉🎉 Our paper for Vision-Language Model (VLM) safety is submitted to **CVPR 2025**.  
 - *2024.08*: &nbsp;🎉🎉 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> **in ECCV 2024** and our method **Fast Sequential Motion Diffusion (FSMD)** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.17256'>paper</a>.
 - *2024.08*: &nbsp;🎉🎉 Our paper **Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning** is accpeted by <a href='https://sites.google.com/view/ai4vaeccv2024'>AI for Visual Arts Workshop and Challenges (AI4VA)</a> in **ECCV 2024**. 
 - *2024.04*: &nbsp;🎉🎉 Join <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a> as a research assistant.
