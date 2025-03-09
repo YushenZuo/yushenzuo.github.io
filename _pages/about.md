@@ -24,7 +24,7 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 Our paper **See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization** is accpeted by **ICASSP 2025**.
+- *2025.01*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2501.11508'> See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization</a> is accpeted by **ICASSP 2025**.
 - *2024.11*: &nbsp;🎉🎉 Our paper for Vision-Language Model (VLM) safety is submitted to **CVPR 2025**.  
 - *2024.08*: &nbsp;🎉🎉 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> **in ECCV 2024** and our method **Fast Sequential Motion Diffusion (FSMD)** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.17256'>paper</a>.
 - *2024.08*: &nbsp;🎉🎉 Our paper **Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning** is accpeted by <a href='https://sites.google.com/view/ai4vaeccv2024'>AI for Visual Arts Workshop and Challenges (AI4VA)</a> in **ECCV 2024**. 
