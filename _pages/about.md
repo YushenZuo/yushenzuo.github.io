@@ -14,7 +14,7 @@ Hello, I am Yushen Zuo, currently a research assistant at <a href='https://www.p
 
 Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a>. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>. I hold a master's degree from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a> and a bachelor's degree from <a href='https://en.xidian.edu.cn/'>Xidian University</a>. 
 
-I am actively seeking PhD opportunities worldwide. My research areas include low-level vision; image translation and generation; object detection and segmentation; 3D vision; vision-language model safety. 
+I am actively seeking PhD opportunities worldwide. My research areas include low-level vision; image generation; diffusion model; object detection and segmentation; 3D vision; vision-language model safety; inference time scaling. 
 
 Here is my <a href="cv/CV_YushenZuo_Dec2024.pdf">**CV**</a>.
 
