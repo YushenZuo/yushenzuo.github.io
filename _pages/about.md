@@ -24,8 +24,9 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2501.11508'> See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization</a> is accpeted by **ICASSP 2025**.
-- *2024.11*: &nbsp;🎉🎉 Our paper for Vision-Language Model (VLM) safety is submitted to **CVPR 2025**.  
+- *2025.03*: &nbsp;🎉🎉 Our paper on Vision-Language Model (VLM) safety with Diffusion is submitted to **ICCV 2025**.
+- *2025.01*: &nbsp;🎉🎉 Our paper on enhancing 3D Gaussian splatting for novel view synthesis is submitted to **IEEE Transactions on Visualization and Computer Graphics (TVCG)**.
+- *2025.01*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2501.11508'>See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization</a> is accpeted by **ICASSP 2025**. 
 - *2024.08*: &nbsp;🎉🎉 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> **in ECCV 2024** and our method **Fast Sequential Motion Diffusion (FSMD)** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.17256'>paper</a>.
 - *2024.08*: &nbsp;🎉🎉 Our paper **Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning** is accpeted by <a href='https://sites.google.com/view/ai4vaeccv2024'>AI for Visual Arts Workshop and Challenges (AI4VA)</a> in **ECCV 2024**. 
 - *2024.04*: &nbsp;🎉🎉 Join <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a> as a research assistant.
@@ -36,6 +37,17 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 - *2019.07*: &nbsp;🎉🎉 Our paper <a href='https://www.sciencedirect.com/science/article/pii/S0925231219307313'>Low-resolution palmprint image denoising by generative adversarial networks</a> is accepted by **Neurocomputing 2019**. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/SIDGaussian.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization](https://arxiv.org/pdf/2501.11508)
+<!-- Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning -->
+
+Zongqi He, Zhe Xiao, Kin-Chung Chan, **Yushen Zuo**, Jun Xiao, Kin-Man Lam
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI4VA@ECCV 2024</div><img src='images/MuvieCastONeSDiff_pipe.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
