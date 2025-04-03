@@ -12,7 +12,7 @@ redirect_from:
 
 Hello, I am Yushen Zuo, currently a research assistant at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>, working under the guidance of <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth K. M. Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Jun Xiao</a>.
 
-Concurrently, I am also a remote intern in <a href='https://taco-group.github.io/'>TACO group</a> and working on Agentic Restoration under the guidance of <a href='https://vztu.github.io/'>Zhengzhong Tu</a> and in close collaboration with <a href='https://shadowiterator.github.io/'>Renjie Li</a>.
+Concurrently, I am also a remote intern in <a href='https://taco-group.github.io/'>TACO group</a> working on Agentic Restoration under the guidance of <a href='https://vztu.github.io/'>Zhengzhong Tu</a> and in close collaboration with <a href='https://shadowiterator.github.io/'>Renjie Li</a>.
 
 Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a>. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>. I hold a master's degree from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a> and a bachelor's degree from <a href='https://en.xidian.edu.cn/'>Xidian University</a>. 
 
@@ -26,7 +26,7 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 1st place in <a href='https://codalab.lisn.upsaclay.fr/competitions/21346'>
+- *2025.03*: &nbsp;🎉🎉 **1st place** in <a href='https://codalab.lisn.upsaclay.fr/competitions/21346'>
 NTIRE 2025 Challenge on Short-form UGC Image Super-Resolution (4x)</a> **in CVPR 2025**.
 - *2025.03*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2504.01308'>Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks</a> is submitted to **ICCV 2025**.
 - *2025.01*: &nbsp;🎉🎉 Our paper on enhancing 3D Gaussian splatting for novel view synthesis is submitted to **IEEE Transactions on Visualization and Computer Graphics (TVCG)**.
