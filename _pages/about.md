@@ -53,7 +53,7 @@ NTIRE 2025 Challenge on Short-form UGC Image Super-Resolution (4x)</a> **in CVPR
 [Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks](https://arxiv.org/abs/2504.01308)
 <!-- Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning -->
 
-Jiawei Wang*, **Yushen Zuo***, Yuanjun Chai, Zhendong Liu, Yicheng Fu, Yichun Feng, Kin-Man Lam
+Jiawei Wang\*, **Yushen Zuo\***, Yuanjun Chai, Zhendong Liu, Yicheng Fu, Yichun Feng, Kin-Man Lam
 
 (* denotes equal contribution)
 
