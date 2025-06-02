@@ -52,10 +52,10 @@ NTIRE 2025 Challenge on Short-form UGC Image Super-Resolution (4x)</a> **in CVPR
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Release Soon</div><img src='images/4KAgent.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[4KAgent: Agentic Any Image to 4K Super-Resolution]
+**4KAgent: Agentic Any Image to 4K Super-Resolution**
 <!-- Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning -->
 
-Yushen Zuo, Qi Zheng, Mingyang Wu, Xinrui Jiang, Renjie Li, Jian Wang, Yide Zhang, Gengchen Mai, Lihong V. Wang, James Zou, Xiaoyu Wang, Ming-Hsuan Yang, Zhengzhong Tu
+**Yushen Zuo**, Qi Zheng, Mingyang Wu, Xinrui Jiang, Renjie Li, Jian Wang, Yide Zhang, Gengchen Mai, Lihong V. Wang, James Zou, Xiaoyu Wang, Ming-Hsuan Yang, Zhengzhong Tu
 
 </div>
 </div>
