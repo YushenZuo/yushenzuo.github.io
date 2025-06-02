@@ -10,9 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Yushen Zuo, currently a research assistant at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>, working under the guidance of <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth K. M. Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Jun Xiao</a>.
+Hello, I am Yushen Zuo, currently a remote intern in <a href='https://taco-group.github.io/'>TACO group, TAMU</a> working on Agentic Image Restoration under the guidance of <a href='https://vztu.github.io/'>Prof. Zhengzhong Tu</a> and in close collaboration with <a href='https://shadowiterator.github.io/'>Renjie Li</a>.
 
-Concurrently, I am also a remote intern in <a href='https://taco-group.github.io/'>TACO group, TAMU</a> working on Agentic Image Restoration under the guidance of <a href='https://vztu.github.io/'>Zhengzhong Tu</a> and in close collaboration with <a href='https://shadowiterator.github.io/'>Renjie Li</a>.
+Concurrently, I am also a research assistant at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>, working under the guidance of <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth K. M. Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Jun Xiao</a>.
 
 Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a>. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>. I hold a master's degree from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a> and a bachelor's degree from <a href='https://en.xidian.edu.cn/'>Xidian University</a>. 
 
@@ -25,9 +25,11 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 <!-- My research interest includes machine learning and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 Ongoing Research Project
-[1] Agentic Image Restoration: Leveraging agentic systems to address complex image restoration tasks. (Collaborators: <a href='https://vztu.github.io/'>Zhengzhong Tu</a>, TACO group, TAMU; <a href='https://jianwang-cmu.github.io/'>Jian Wang</a>, Snap Inc.; <a href='https://faculty.ucmerced.edu/mhyang/'>Ming-Hsuan Yang<a>, UC Merced; <a href='https://coilab.caltech.edu/members/directors-biography'>Lihong V. Wang<a>, Caltech; <a href='https://www.james-zou.com/'>James Zou<a>, Stanford University)
+[1] Agentic Image Restoration: Leveraging agentic systems to address complex image restoration tasks. 
 
-[2] Test Time Scaling in Advanced Text-to-Image framework: Exploring test-time scaling strategies within cutting-edge text-to-image generation frameworks. (Collaborators: <a href='https://scholar.google.com/citations?user=Lnr1FQEAAAAJ'>Zhimin Li</a>, Hunyuan-DiT team, Tencent)
+(Collaborators: <a href='https://vztu.github.io/'>Zhengzhong Tu</a>, TACO group, TAMU; <a href='https://jianwang-cmu.github.io/'>Jian Wang</a>, Snap Inc.; <a href='https://faculty.ucmerced.edu/mhyang/'>Ming-Hsuan Yang</a>, UC Merced; <a href='https://coilab.caltech.edu/members/directors-biography'>Lihong V. Wang</a>, Caltech; <a href='https://www.james-zou.com/'>James Zou</a>, Stanford University)
+
+[2] Test Time Scaling in Advanced Text-to-Image Framework: Exploring test-time scaling strategies within cutting-edge text-to-image generation frameworks. (Collaborators: <a href='https://scholar.google.com/citations?user=Lnr1FQEAAAAJ'>Zhimin Li</a>, Hunyuan-DiT team, Tencent)
 
 
 # 🔥 News
@@ -47,7 +49,18 @@ NTIRE 2025 Challenge on Short-form UGC Image Super-Resolution (4x)</a> **in CVPR
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 Submission</div><img src='images/DiffPure_VLM.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Release Soon</div><img src='images/DiffPure_VLM.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[4KAgent: Agentic Any Image to 4K Super-Resolution]
+<!-- Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning -->
+
+Yushen Zuo, Qi Zheng, Mingyang Wu, Xinrui Jiang, Renjie Li, Jian Wang, Yide Zhang, Gengchen Mai, Lihong V. Wang, James Zou, Xiaoyu Wang, Ming-Hsuan Yang, Zhengzhong Tu
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DiffPure_VLM.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks](https://arxiv.org/abs/2504.01308)
