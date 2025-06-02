@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yushen Zuo"
-description              : "Research assistant at The Hong Kong Polytechnic University (PolyU)"
+description              : "Research intern at Texas A&M University (TAMU)"
 repository               : "YushenZuo/yushenzuo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yushen Zuo"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "The Hong Kong Polytechnic University (PolyU)"
-  location         : "Hong Kong"
+  bio              : "Texas A&M University (TAMU)"
+  location         : "USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=C2CDJOoAAAAJ"
