@@ -25,11 +25,11 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 <!-- My research interest includes machine learning and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 Ongoing Research Project
-[1] 4KAgent: Leveraging agentic systems to address complex image restoration tasks and upscale images to 4K resolution. 
+[1] **4KAgent: Leveraging agentic systems to address complex image restoration tasks and upscale images to 4K resolution.** 
 
 (Collaborators: <a href='https://vztu.github.io/'>Zhengzhong Tu</a>, TACO group, TAMU; <a href='https://jianwang-cmu.github.io/'>Jian Wang</a>, Snap Inc.; <a href='https://faculty.ucmerced.edu/mhyang/'>Ming-Hsuan Yang</a>, UC Merced; <a href='https://coilab.caltech.edu/members/directors-biography'>Lihong V. Wang</a>, Caltech; <a href='https://www.james-zou.com/'>James Zou</a>, Stanford University)
 
-[2] Test Time Scaling in Advanced Text-to-Image Framework: Exploring test-time scaling strategies within cutting-edge ODE / Flow matching based text-to-image generation frameworks.
+[2] **Test Time Scaling in Advanced Text-to-Image Framework: Exploring test-time scaling strategies within cutting-edge ODE / Flow matching based text-to-image generation frameworks.**
 
 (Collaborators: <a href='https://scholar.google.com/citations?user=Lnr1FQEAAAAJ'>Zhimin Li</a>, Hunyuan-DiT team, Tencent)
 
