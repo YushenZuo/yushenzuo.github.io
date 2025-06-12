@@ -37,7 +37,7 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 **1st place** in <a href='https://codalab.lisn.upsaclay.fr/competitions/21346'>
 NTIRE 2025 Challenge on Short-form UGC Image Super-Resolution (4x)</a> **in CVPR 2025**.
-- *2025.03*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2504.01308'>Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks</a> is submitted to **ICCV 2025**.
+- *2025.03*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2504.01308'>Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks</a> is released (with <a href='https://github.com/JarvisUSTC/DiffPure-RobustVLM'>Code</a> and <a href='https://huggingface.co/Jarvis1111/MiniGPT4-RobustVLGuard'>Huggingface Page</a>).
 - *2025.01*: &nbsp;🎉🎉 Join <a href='https://www.tamu.edu/'>Texas A&M University (TAMU)</a> as a research intern, supervisor: <a href='https://vztu.github.io/'>Prof. Zhengzhong Tu</a>.
 - *2025.01*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2501.11508'>See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization</a> is accpeted by **ICASSP 2025**. 
 - *2024.08*: &nbsp;🎉🎉 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> **in ECCV 2024** and our method **Fast Sequential Motion Diffusion (FSMD)** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.17256'>paper</a>.
