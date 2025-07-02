@@ -16,7 +16,7 @@ Concurrently, I am also a research assistant at <a href='https://www.polyu.edu.h
 
 Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a>. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>. I hold a master's degree from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a> and a bachelor's degree from <a href='https://en.xidian.edu.cn/'>Xidian University</a>. 
 
-I am actively seeking PhD opportunities worldwide. My research areas include low-level vision; image generation; object detection and segmentation; 3D vision; vision-language model safety; Agentic AI; Test time scaling in Text-to-Image framework. 
+I am actively seeking PhD and research job opportunities worldwide. My research areas include low-level vision; image generation; object detection and segmentation; 3D vision; vision-language models; Agentic AI; Test time scaling in Text-to-Image framework. 
 
 Here is my <a href="cv/CV_YushenZuo_June_v3.pdf">**CV**</a>.
 
@@ -25,7 +25,7 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 <!-- My research interest includes machine learning and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 Ongoing Research Project
-[1] **4KAgent: Leveraging agentic systems to address complex image restoration tasks and upscale images to 4K resolution.** 
+[1] **4KAgent: Leveraging agentic systems to address complex image restoration tasks and upscale images to 4K resolution. (<a href='https://4kagent.github.io/'>Project Page</a>)** 
 
 (Collaborators: <a href='https://vztu.github.io/'>Zhengzhong Tu</a>, TACO group, TAMU; <a href='https://jianwang-cmu.github.io/'>Jian Wang</a>, Snap Inc.; <a href='https://faculty.ucmerced.edu/mhyang/'>Ming-Hsuan Yang</a>, UC Merced; <a href='https://coilab.caltech.edu/members/directors-biography'>Lihong V. Wang</a>, Caltech; <a href='https://www.james-zou.com/'>James Zou</a>, Stanford University)
 
@@ -58,6 +58,8 @@ NTIRE 2025 Challenge on Short-form UGC Image Super-Resolution (4x)</a> **in CVPR
 <!-- Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning -->
 
 **Yushen Zuo**, Qi Zheng, Mingyang Wu, Xinrui Jiang, Renjie Li, Jian Wang, Yide Zhang, Gengchen Mai, Lihong V. Wang, James Zou, Xiaoyu Wang, Ming-Hsuan Yang, Zhengzhong Tu
+
+<a href='https://4kagent.github.io/'>Project Page</a>
 
 </div>
 </div>
