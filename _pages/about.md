@@ -27,7 +27,7 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 # 🔥 Ongoing Research Project
 [1] **4KAgent: Leveraging agentic systems to address complex image restoration tasks and upscale images to 4K resolution.** 
 
-<a href='https://4kagent.github.io/'>Project Page</a>
+Project Page: <a href='https://4kagent.github.io/'>4KAgent</a>
 
 (Collaborators: <a href='https://vztu.github.io/'>Zhengzhong Tu</a>, TACO group, TAMU; <a href='https://jianwang-cmu.github.io/'>Jian Wang</a>, Snap Inc.; <a href='https://faculty.ucmerced.edu/mhyang/'>Ming-Hsuan Yang</a>, UC Merced; <a href='https://coilab.caltech.edu/members/directors-biography'>Lihong V. Wang</a>, Caltech; <a href='https://www.james-zou.com/'>James Zou</a>, Stanford University)
 
