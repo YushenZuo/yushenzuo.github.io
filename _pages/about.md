@@ -199,8 +199,9 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
 
 
 # 🎖 Honors and Awards
-- *2024.08*  AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content - 2nd place.
-- *2022.06*  'Stars-of-tomorrow' award of Microsoft Research Asia Intern Program.
+- *2025.03*  CVPR 2025 NTIRE Challenge on Short-form UGC Image Super-Resolution - 1st place
+- *2024.08*  AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content - 2nd place
+- *2022.06*  'Stars-of-tomorrow' award of Microsoft Research Asia Intern Program
 - *2021.03*  CVPR 2021 NTIRE Image Deblurring Challenge - Track1. Low Resolution (10 / 60)
 - *2021.01*  Kaggle NFL 1st and Future - Impact Detection, Silver medal (23 / 459)
 - *2020.12*  Champion of the 1st Ocean Target Detection International Challenge (1 / 151)
