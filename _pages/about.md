@@ -27,7 +27,7 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 # 🔥 Ongoing Research Project
 [1] **4KAgent: Leveraging agentic systems to address complex image restoration tasks and upscale images to 4K resolution.** 
 
-Project Page: <a href='https://4kagent.github.io/'>4KAgent</a>
+<a href='https://arxiv.org/pdf/2507.07105'>Paper</a> & <a href='https://4kagent.github.io/'>Project Page</a>
 
 (Collaborators: <a href='https://vztu.github.io/'>Zhengzhong Tu</a>, TACO group, TAMU; <a href='https://jianwang-cmu.github.io/'>Jian Wang</a>, Snap Inc.; <a href='https://faculty.ucmerced.edu/mhyang/'>Ming-Hsuan Yang</a>, UC Merced; <a href='https://coilab.caltech.edu/members/directors-biography'>Lihong V. Wang</a>, Caltech; <a href='https://www.james-zou.com/'>James Zou</a>, Stanford University)
 
@@ -53,11 +53,10 @@ NTIRE 2025 Challenge on Short-form UGC Image Super-Resolution (4x)</a> **in CVPR
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Release Soon</div><img src='images/Personal_Website_4KAgent.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Personal_Website_4KAgent.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**4KAgent: Agentic Any Image to 4K Super-Resolution**
-<!-- Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning -->
+[4KAgent: Agentic Any Image to 4K Super-Resolution](https://arxiv.org/pdf/2507.07105)
 
 **Yushen Zuo**, Qi Zheng, Mingyang Wu, Xinrui Jiang, Renjie Li, Jian Wang, Yide Zhang, Gengchen Mai, Lihong V. Wang, James Zou, Xiaoyu Wang, Ming-Hsuan Yang, Zhengzhong Tu
 
