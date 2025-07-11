@@ -132,7 +132,7 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
 </div>
 
 # 💻 Work and Research Experience
-- **2024.04 - Now**, Research Assistant, <a href='https://www.polyu.edu.hk/en/'>The Hong Kong Polytechnic University (PolyU)</a>
+- **2024.04 - 2025.05**, Research Assistant, <a href='https://www.polyu.edu.hk/en/'>The Hong Kong Polytechnic University (PolyU)</a>
   - Artificial Intelligence and Signal Processing Laboratory
     - Accelerated Diffusion for Image Processing (e.g., Style Transfer, Image Translation)
       - Focus on the stylization of multi-view images in 3D scenes and proposed OSDiffST, a novel style transfer method based on a one-step diffusion model.
