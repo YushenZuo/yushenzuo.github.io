@@ -33,9 +33,9 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 
 (Collaborators: <a href='https://vztu.github.io/'>Zhengzhong Tu</a>, TACO group, TAMU; <a href='https://jianwang-cmu.github.io/'>Jian Wang</a>, Snap Inc.; <a href='https://faculty.ucmerced.edu/mhyang/'>Ming-Hsuan Yang</a>, UC Merced; <a href='https://coilab.caltech.edu/members/directors-biography'>Lihong V. Wang</a>, Caltech; <a href='https://www.james-zou.com/'>James Zou</a>, Stanford University)
 
-[2] **Test Time Scaling in Advanced Text-to-Image Framework: Exploring test-time scaling strategies within cutting-edge ODE / Flow matching based text-to-image generation frameworks.**
+<!-- [2] **Test Time Scaling in Advanced Text-to-Image Framework: Exploring test-time scaling strategies within cutting-edge ODE / Flow matching based text-to-image generation frameworks.**
 
-(Collaborators: <a href='https://scholar.google.com/citations?user=Lnr1FQEAAAAJ'>Zhimin Li</a>, Hunyuan-DiT team, Tencent)
+(Collaborators: <a href='https://scholar.google.com/citations?user=Lnr1FQEAAAAJ'>Zhimin Li</a>, Hunyuan-DiT team, Tencent) -->
 
 
 # 🔥 News
