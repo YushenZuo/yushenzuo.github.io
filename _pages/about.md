@@ -26,12 +26,12 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 
 <!-- My research interest includes machine learning and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-# 🔥 Ongoing Research Project
+<!-- # 🔥 Ongoing Research Project
 [1] **4KAgent: Leveraging agentic systems to address complex image restoration tasks and upscale images to 4K resolution.** 
 
 <a href='https://arxiv.org/pdf/2507.07105'>Paper</a> & <a href='https://4kagent.github.io/'>Project Page</a>
 
-(Collaborators: <a href='https://vztu.github.io/'>Zhengzhong Tu</a>, TACO group, TAMU; <a href='https://jianwang-cmu.github.io/'>Jian Wang</a>, Snap Inc.; <a href='https://faculty.ucmerced.edu/mhyang/'>Ming-Hsuan Yang</a>, UC Merced; <a href='https://coilab.caltech.edu/members/directors-biography'>Lihong V. Wang</a>, Caltech; <a href='https://www.james-zou.com/'>James Zou</a>, Stanford University)
+(Collaborators: <a href='https://vztu.github.io/'>Zhengzhong Tu</a>, TACO group, TAMU; <a href='https://jianwang-cmu.github.io/'>Jian Wang</a>, Snap Inc.; <a href='https://faculty.ucmerced.edu/mhyang/'>Ming-Hsuan Yang</a>, UC Merced; <a href='https://coilab.caltech.edu/members/directors-biography'>Lihong V. Wang</a>, Caltech; <a href='https://www.james-zou.com/'>James Zou</a>, Stanford University) -->
 
 <!-- [2] **Test Time Scaling in Advanced Text-to-Image Framework: Exploring test-time scaling strategies within cutting-edge ODE / Flow matching based text-to-image generation frameworks.**
 
@@ -39,6 +39,7 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2507.07105'>4KAgent: Agentic Any Image to 4K Super-Resolution</a> is accepted by **NeurIPS 2025** (<a href='https://github.com/taco-group/4KAgent'>Code</a>, <a href='https://4kagent.github.io/'>Project Page</a> and <a href='https://huggingface.co/papers/2507.07105'>Huggingface Page</a>).
 - *2025.06*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2504.01308'>Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks</a> is accepted by **ICCV 2025** (<a href='https://github.com/JarvisUSTC/DiffPure-RobustVLM'>Code</a> and <a href='https://huggingface.co/Jarvis1111/MiniGPT4-RobustVLGuard'>Huggingface Page</a>).
 - *2025.03*: &nbsp;🎉🎉 **1st place** in <a href='https://codalab.lisn.upsaclay.fr/competitions/21346'>
 NTIRE 2025 Challenge on Short-form UGC Image Super-Resolution (4x)</a> **in CVPR 2025**.
@@ -55,7 +56,7 @@ NTIRE 2025 Challenge on Short-form UGC Image Super-Resolution (4x)</a> **in CVPR
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Personal_Website_4KAgent.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Personal_Website_4KAgent.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [4KAgent: Agentic Any Image to 4K Super-Resolution](https://arxiv.org/pdf/2507.07105)
