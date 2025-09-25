@@ -10,15 +10,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Yushen Zuo, currently a first-year PhD student at the Australian National University (ANU), working on image / video generation under the guidance of <a href='https://zheng-lab-anu.github.io/'>Prof. Zheng Liang</a>.
+<!-- Hello, I am Yushen Zuo, currently a first-year PhD student at the Australian National University (ANU), working on image / video generation under the guidance of <a href='https://zheng-lab-anu.github.io/'>Prof. Zheng Liang</a>. -->
 
-Previously, I was a research intern in <a href='https://taco-group.github.io/'>TACO group, TAMU</a> working on Agentic Image Restoration under the guidance of <a href='https://vztu.github.io/'>Prof. Zhengzhong Tu</a> and in close collaboration with <a href='https://shadowiterator.github.io/'>Renjie Li</a>.
+<!-- Previously, I was a research intern in <a href='https://taco-group.github.io/'>TACO group, TAMU</a> working on Agentic Image Restoration under the guidance of <a href='https://vztu.github.io/'>Prof. Zhengzhong Tu</a> and in close collaboration with <a href='https://shadowiterator.github.io/'>Renjie Li</a>. -->
+
+Hello, I am Yushen Zuo, currently a research intern in <a href='https://taco-group.github.io/'>TACO group, TAMU</a> working on Agentic Image Restoration under the guidance of <a href='https://vztu.github.io/'>Prof. Zhengzhong Tu</a> and in close collaboration with <a href='https://shadowiterator.github.io/'>Renjie Li</a>.
 
 Before that, I was a research assistant at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>, working under the guidance of <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth K. M. Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Jun Xiao</a>.
 
 Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a>. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>. I hold a master's degree from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a> and a bachelor's degree from <a href='https://en.xidian.edu.cn/'>Xidian University</a>. 
 
-I am actively seeking **research internship** opportunities worldwide. My research areas including image / video generation; vision-language models; low-level vision; Agentic AI; object detection and segmentation; 3D vision. 
+I am actively seeking **PhD** and **research job** opportunities worldwide. My research areas including image / video generation; vision-language models; low-level vision; Agentic AI; object detection and segmentation; 3D vision. 
 
 Here is my <a href="cv/CV_YushenZuo_Sept2025.pdf">**CV**</a>. My email: zuoyushen12@gmail.com
 
