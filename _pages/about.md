@@ -22,7 +22,7 @@ Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/
 
 I am actively seeking **PhD** and **research job** opportunities worldwide. My research areas including image / video generation; vision-language models; low-level vision; Agentic AI; object detection and segmentation; 3D vision. 
 
-Here is my <a href="cv/CV_YushenZuo_Sept2025.pdf">**CV**</a>. My email: zuoyushen12@gmail.com
+Here is my <a href="cv/CV_YushenZuo_Oct2025_v1.pdf">**CV**</a>. My email: zuoyushen12@gmail.com
 
 Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
