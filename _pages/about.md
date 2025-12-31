@@ -41,8 +41,8 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2507.07105'>4KAgent: Agentic Any Image to 4K Super-Resolution</a> is accepted by **NeurIPS 2025** (<a href='https://github.com/taco-group/4KAgent'>Code</a>, <a href='https://4kagent.github.io/'>Project Page</a> and <a href='https://huggingface.co/papers/2507.07105'>Huggingface Page</a>).
-- *2025.06*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2504.01308'>Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks</a> is accepted by **ICCV 2025** (<a href='https://github.com/JarvisUSTC/DiffPure-RobustVLM'>Code</a> and <a href='https://huggingface.co/Jarvis1111/MiniGPT4-RobustVLGuard'>Huggingface Page</a>).
+- *2025.09*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2507.07105'>4KAgent: Agentic Any Image to 4K Super-Resolution</a> is accepted by **NeurIPS 2025** (<a href='https://github.com/taco-group/4KAgent'>Code</a>, <a href='https://4kagent.github.io/'>Project Page</a> and <a href='https://huggingface.co/papers/2507.07105'>Hugging Face Page</a>).
+- *2025.06*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2504.01308'>Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks</a> is accepted by **ICCV 2025** (<a href='https://github.com/JarvisUSTC/DiffPure-RobustVLM'>Code</a> and <a href='https://huggingface.co/Jarvis1111/MiniGPT4-RobustVLGuard'>Hugging Face Page</a>).
 - *2025.03*: &nbsp;🎉🎉 **1st place** in <a href='https://codalab.lisn.upsaclay.fr/competitions/21346'>
 NTIRE 2025 Challenge on Short-form UGC Image Super-Resolution</a> **in CVPR 2025**.
 <!-- - *2025.01*: &nbsp;🎉🎉 Join <a href='https://www.tamu.edu/'>Texas A&M University (TAMU)</a> as a research intern, supervisor: <a href='https://vztu.github.io/'>Prof. Zhengzhong Tu</a>. -->
