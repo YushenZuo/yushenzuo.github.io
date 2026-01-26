@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yushen Zuo"
-description              : "Research intern at Texas A&M University (TAMU)"
+description              : "PhD Student at The Australian National University (ANU)"
 repository               : "YushenZuo/yushenzuo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yushen Zuo"
   avatar           : "images/avataaars_new.png"
-  bio              : "Texas A&M University (TAMU)"
-  location         : "USA"
+  bio              : "The Australian National University (ANU)"
+  location         : "Australia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=C2CDJOoAAAAJ"
