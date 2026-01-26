@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Yushen Zuo, currently a first-year PhD student at the Australian National University (ANU), working on image / video generation under the guidance of <a href='https://zheng-lab-anu.github.io/'>Prof. Zheng Liang</a>. -->
+Hello, I am Yushen Zuo, currently a first-year PhD student at the Australian National University (ANU), working on image / video generation under the guidance of <a href='https://zheng-lab-anu.github.io/'>Prof. Zheng Liang</a>.
 
 Previously, I was a research intern in <a href='https://taco-group.github.io/'>TACO group, TAMU</a> working on Agentic Image Restoration under the guidance of <a href='https://vztu.github.io/'>Prof. Zhengzhong Tu</a> and in close collaboration with <a href='https://shadowiterator.github.io/'>Renjie Li</a>.
 
