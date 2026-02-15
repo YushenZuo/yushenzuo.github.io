@@ -10,6 +10,13 @@
  */
 /* 占位：满足 front matter 后报「应为 {」的 linter */
 ._scss-lint-placeholder { outline: none; }
+
+/* 自我介绍中机构名后的小图标 */
+.org-icon {
+  vertical-align: middle;
+  margin-left: 3px;
+  opacity: 0.9;
+}
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";

@@ -10,17 +10,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am **Yushen Zuo**, a first-year PhD student at the Australian National University (ANU), working on image / video generation under the guidance of <a href='https://zheng-lab-anu.github.io/'>Prof. Zheng Liang</a>.
+Hello, I am **Yushen Zuo**, a first-year PhD student at the <a href='https://www.anu.edu.au/'>Australian National University (ANU)</a><img src="https://www.google.com/s2/favicons?domain=anu.edu.au&sz=32" alt="" class="org-icon" width="16" height="16">, working on image / video generation under the guidance of <a href='https://zheng-lab-anu.github.io/'>Prof. Zheng Liang</a>.
 
 **Research Interest:** Image & video generation, Vision-Language Models, Agentic AI, Embodied AI.
 
-Previously, I was a research intern in <a href='https://taco-group.github.io/'>TACO group, TAMU</a> working on Agentic Image Restoration under the guidance of <a href='https://vztu.github.io/'>Prof. Zhengzhong Tu</a> and in close collaboration with <a href='https://shadowiterator.github.io/'>Renjie Li</a>.
+Previously, I was a research intern in <a href='https://taco-group.github.io/'>TACO group, TAMU</a><img src="https://www.google.com/s2/favicons?domain=tamu.edu&sz=32" alt="" class="org-icon" width="16" height="16"> working on Agentic Image Restoration under the guidance of <a href='https://vztu.github.io/'>Prof. Zhengzhong Tu</a> and in close collaboration with <a href='https://shadowiterator.github.io/'>Renjie Li</a>.
 
 <!-- Hello, I am Yushen Zuo, currently a research intern in <a href='https://taco-group.github.io/'>TACO group, TAMU</a> working on Agentic Image Restoration under the guidance of <a href='https://vztu.github.io/'>Prof. Zhengzhong Tu</a> and in close collaboration with <a href='https://shadowiterator.github.io/'>Renjie Li</a>. -->
 
-Before that, I was a research assistant at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>, working under the guidance of <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth K. M. Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Jun Xiao</a>.
+Before that, I was a research assistant at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a><img src="https://www.google.com/s2/favicons?domain=polyu.edu.hk&sz=32" alt="" class="org-icon" width="16" height="16">, working under the guidance of <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth K. M. Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Jun Xiao</a>.
 
-Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a>. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>. I hold a master's degree from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a> and a bachelor's degree from <a href='https://en.xidian.edu.cn/'>Xidian University</a>. 
+Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a><img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=32" alt="" class="org-icon" width="16" height="16">. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a><img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=32" alt="" class="org-icon" width="16" height="16"> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a><img src="https://www.google.com/s2/favicons?domain=tencent.com&sz=32" alt="" class="org-icon" width="16" height="16">. I hold a master's degree from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a><img src="https://www.google.com/s2/favicons?domain=tsinghua.edu.cn&sz=32" alt="" class="org-icon" width="16" height="16"> and a bachelor's degree from <a href='https://en.xidian.edu.cn/'>Xidian University</a><img src="https://www.google.com/s2/favicons?domain=xidian.edu.cn&sz=32" alt="" class="org-icon" width="16" height="16">. 
 
 I am actively seeking **Research Job & Internship** opportunities worldwide.
 
