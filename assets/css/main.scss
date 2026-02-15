@@ -13,9 +13,9 @@
     outline: none;
 }
 
-/* 自我介绍中机构名后的小图标（显示 16px） */
+/* 自我介绍中机构名后的小图标（显示 16px，略上移与文字对齐） */
 .org-icon {
-    vertical-align: middle;
+    vertical-align: -3px;
     margin-left: 3px;
     width: 16px;
     height: 16px;
