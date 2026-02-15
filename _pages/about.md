@@ -20,9 +20,9 @@ Before that, I was a research assistant at <a href='https://www.polyu.edu.hk/'>T
 
 Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a>. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>. I hold a master's degree from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a> and a bachelor's degree from <a href='https://en.xidian.edu.cn/'>Xidian University</a>. 
 
-I am actively seeking **PhD** and **research job** opportunities worldwide. My research areas including image / video generation; vision-language models; low-level vision; Agentic AI; object detection and segmentation; 3D vision. 
+I am actively seeking **Research Job & Internship** opportunities worldwide. My research areas including image / video generation, vision-language models, Agentic AI, and Embodied AI. 
 
-Here is my <a href="cv/CV_YushenZuo_Oct2025_v1.pdf">**CV**</a>. My email: zuoyushen12@gmail.com
+Here is my <a href="cv/CV_YushenZuo_Oct2025_v2.pdf">**CV**</a>. My email: zuoyushen12@gmail.com
 
 Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -65,7 +65,7 @@ NTIRE 2025 Challenge on Short-form UGC Image Super-Resolution</a> **in CVPR 2025
 
 **Yushen Zuo**, Qi Zheng, Mingyang Wu, Xinrui Jiang, Renjie Li, Jian Wang, Yide Zhang, Gengchen Mai, Lihong V. Wang, James Zou, Xiaoyu Wang, Ming-Hsuan Yang, Zhengzhong Tu
 
-<a href='https://4kagent.github.io/'>Project Page</a>
+<a href='https://4kagent.github.io/'>Project Page</a> & <a href='https://github.com/taco-group/4KAgent'>GitHub <img src="https://img.shields.io/github/stars/taco-group/4KAgent" alt="GitHub stars"></a>
 
 </div>
 </div>
@@ -80,6 +80,8 @@ Jiawei Wang\*, **Yushen Zuo\***, Yuanjun Chai, Zhendong Liu, Yicheng Fu, Yichun 
 
 (* denotes equal contribution)
 
+<a href='https://github.com/JarvisUSTC/DiffPure-RobustVLM'>GitHub</a>
+
 </div>
 </div>
 
@@ -90,6 +92,8 @@ Jiawei Wang\*, **Yushen Zuo\***, Yuanjun Chai, Zhendong Liu, Yicheng Fu, Yichun 
 <!-- Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning -->
 
 Zongqi He, Zhe Xiao, Kin-Chung Chan, **Yushen Zuo**, Jun Xiao, Kin-Man Lam
+
+<a href='https://github.com/wuyou012/SIDGaussian'>GitHub</a>
 
 </div>
 </div>
@@ -152,10 +156,10 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
     <!-- - Old movie restoration and enhancement -->
     - Novel view synthesis under sparse view with 3D Gaussian Splatting
       - Focus on enhancing 3D Gaussian Splatting for novel view synthesis under sparse view based on local depth and semantic regularization.
-      - Our research paper is accepted by **ICASSP 2025**.
+      - Research paper is accepted by **ICASSP 2025**.
     - Image Processing and Diffusion in vision-language model safety and defense
       - Explores VLM safety and the effectiveness of diffusion in defense.
-      - Research paper is planned to submit to **CVPR 2025**.
+      - Research paper is accepted by **ICCV 2025**.
 - **2022.08 - 2024.03**, Applied Scientist, <a href='https://www.microsoft.com/en-us'>Microsoft</a>
   - Bing News - Recommendation system
     - Explainable AI
