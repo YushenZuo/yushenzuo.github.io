@@ -10,7 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Yushen Zuo, currently a first-year PhD student at the Australian National University (ANU), working on image / video generation under the guidance of <a href='https://zheng-lab-anu.github.io/'>Prof. Zheng Liang</a>.
+Hello, I am **Yushen Zuo**, a first-year PhD student at the Australian National University (ANU), working on image / video generation under the guidance of <a href='https://zheng-lab-anu.github.io/'>Prof. Zheng Liang</a>.
+
+**Research:** Image & video generation, vision-language models, Agentic AI, embodied AI.
 
 Previously, I was a research intern in <a href='https://taco-group.github.io/'>TACO group, TAMU</a> working on Agentic Image Restoration under the guidance of <a href='https://vztu.github.io/'>Prof. Zhengzhong Tu</a> and in close collaboration with <a href='https://shadowiterator.github.io/'>Renjie Li</a>.
 
@@ -20,11 +22,9 @@ Before that, I was a research assistant at <a href='https://www.polyu.edu.hk/'>T
 
 Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a>. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a>. I hold a master's degree from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a> and a bachelor's degree from <a href='https://en.xidian.edu.cn/'>Xidian University</a>. 
 
-I am actively seeking **Research Job & Internship** opportunities worldwide. My research areas including image / video generation, vision-language models, Agentic AI, and Embodied AI. 
+I am actively seeking **Research Job & Internship** opportunities worldwide.
 
-Here is my <a href="cv/CV_YushenZuo_Oct2025_v2.pdf">**CV**</a>. My email: zuoyushen12@gmail.com
-
-Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href="cv/CV_YushenZuo_Oct2025_v2.pdf">CV</a> · <a href="mailto:zuoyushen12@gmail.com">zuoyushen12@gmail.com</a> · <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'>Google Scholar</a> <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="citations"></a>
 
 <!-- My research interest includes machine learning and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -43,22 +43,26 @@ Google citation: <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2507.07105'>4KAgent: Agentic Any Image to 4K Super-Resolution</a> is accepted by **NeurIPS 2025** (<a href='https://github.com/taco-group/4KAgent'>Code</a>, <a href='https://4kagent.github.io/'>Project Page</a> and <a href='https://huggingface.co/papers/2507.07105'>Hugging Face Page</a>).
 - *2025.06*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2504.01308'>Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks</a> is accepted by **ICCV 2025** (<a href='https://github.com/JarvisUSTC/DiffPure-RobustVLM'>Code</a> and <a href='https://huggingface.co/Jarvis1111/MiniGPT4-RobustVLGuard'>Hugging Face Page</a>).
-- *2025.03*: &nbsp;🎉🎉 **1st place** in <a href='https://codalab.lisn.upsaclay.fr/competitions/21346'>
-NTIRE 2025 Challenge on Short-form UGC Image Super-Resolution</a> **in CVPR 2025**.
-<!-- - *2025.01*: &nbsp;🎉🎉 Join <a href='https://www.tamu.edu/'>Texas A&M University (TAMU)</a> as a research intern, supervisor: <a href='https://vztu.github.io/'>Prof. Zhengzhong Tu</a>. -->
-- *2025.01*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2501.11508'>See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization</a> is accpeted by **ICASSP 2025** (<a href='https://github.com/wuyou012/SIDGaussian'>Code</a>). 
+- *2025.03*: &nbsp;🎉🎉 **1st place** in <a href='https://codalab.lisn.upsaclay.fr/competitions/21346'>NTIRE 2025 Challenge on Short-form UGC Image Super-Resolution</a> **in CVPR 2025**.
+- *2025.01*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2501.11508'>See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization</a> is accpeted by **ICASSP 2025** (<a href='https://github.com/wuyou012/SIDGaussian'>Code</a>).
 - *2024.08*: &nbsp;🎉🎉 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> **in ECCV 2024** and our method **Fast Sequential Motion Diffusion (FSMD)** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.17256'>paper</a>.
-- *2024.08*: &nbsp;🎉🎉 Our paper **Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning** is accpeted by <a href='https://sites.google.com/view/ai4vaeccv2024'>AI for Visual Arts Workshop and Challenges (AI4VA)</a> in **ECCV 2024**. 
-- *2024.04*: &nbsp;🎉🎉 Join <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a> as a research assistant, supervisor: <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth K. M. Lam</a>.
-- *2022.07*: &nbsp;🎉🎉 Join <a href='https://www.microsoft.com/en-us'>Microsoft</a> as an applied scientist and focus on recommendation system and large language model application in Bing.
-- *2022.06*: &nbsp;🎉🎉 'Stars-of-tomorrow' award of MSRA Internship Program.
-- *2021.07*: &nbsp;🎉🎉 Join <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia (MSRA)</a> as a research intern in <a href='https://www.microsoft.com/en-us/research/group/speech/'>Multi-Modal Interaction (MMI) Group</a> (directed by <a href='https://www.microsoft.com/en-us/research/people/qianghuo/'>Dr. Qiang Huo</a>) and cooperate with Azure OCR team for multi-directional table detection in PDF image.
-- *2021.03*: &nbsp;🎉🎉 Rank 10 / 60 in <a href='https://competitions.codalab.org/competitions/28073'>NTIRE 2021 Challenge on Image Deblurring</a> in **CVPR 2021** and our method **Visual Token Transformer for Image Restoration** is selected to present in the summary <a href='https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf'>paper</a>.
-- *2019.07*: &nbsp;🎉🎉 Our paper <a href='https://www.sciencedirect.com/science/article/pii/S0925231219307313'>Low-resolution palmprint image denoising by generative adversarial networks</a> is accepted by **Neurocomputing 2019**. 
+- *2024.08*: &nbsp;🎉🎉 Our paper **Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning** is accpeted by <a href='https://sites.google.com/view/ai4vaeccv2024'>AI for Visual Arts Workshop and Challenges (AI4VA)</a> in **ECCV 2024**.
+
+<details class="news-more">
+<summary>More news</summary>
+<ul style="margin-top:0.5em;">
+<li><em>2024.04</em>: 🎉🎉 Join <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a> as a research assistant, supervisor: <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth K. M. Lam</a>.</li>
+<li><em>2022.07</em>: 🎉🎉 Join <a href='https://www.microsoft.com/en-us'>Microsoft</a> as an applied scientist and focus on recommendation system and large language model application in Bing.</li>
+<li><em>2022.06</em>: 🎉🎉 'Stars-of-tomorrow' award of MSRA Internship Program.</li>
+<li><em>2021.07</em>: 🎉🎉 Join <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia (MSRA)</a> as a research intern in <a href='https://www.microsoft.com/en-us/research/group/speech/'>Multi-Modal Interaction (MMI) Group</a> (directed by <a href='https://www.microsoft.com/en-us/research/people/qianghuo/'>Dr. Qiang Huo</a>) and cooperate with Azure OCR team for multi-directional table detection in PDF image.</li>
+<li><em>2021.03</em>: 🎉🎉 Rank 10 / 60 in <a href='https://competitions.codalab.org/competitions/28073'>NTIRE 2021 Challenge on Image Deblurring</a> in <strong>CVPR 2021</strong> and our method <strong>Visual Token Transformer for Image Restoration</strong> is selected to present in the summary <a href='https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf'>paper</a>.</li>
+<li><em>2019.07</em>: 🎉🎉 Our paper <a href='https://www.sciencedirect.com/science/article/pii/S0925231219307313'>Low-resolution palmprint image denoising by generative adversarial networks</a> is accepted by <strong>Neurocomputing 2019</strong>.</li>
+</ul>
+</details> 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Personal_Website_4KAgent.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-neurips">NeurIPS 2025</div><img src='images/Personal_Website_4KAgent.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [4KAgent: Agentic Any Image to 4K Super-Resolution](https://arxiv.org/pdf/2507.07105)
@@ -70,7 +74,7 @@ NTIRE 2025 Challenge on Short-form UGC Image Super-Resolution</a> **in CVPR 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/DiffPure_VLM.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-iccv">ICCV 2025</div><img src='images/DiffPure_VLM.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks](https://arxiv.org/abs/2504.01308)
@@ -85,7 +89,7 @@ Jiawei Wang\*, **Yushen Zuo\***, Yuanjun Chai, Zhendong Liu, Yicheng Fu, Yichun 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/SIDGaussian.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-icassp">ICASSP 2025</div><img src='images/SIDGaussian.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization](https://arxiv.org/pdf/2501.11508)
@@ -98,7 +102,7 @@ Zongqi He, Zhe Xiao, Kin-Chung Chan, **Yushen Zuo**, Jun Xiao, Kin-Man Lam
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI4VA@ECCV 2024</div><img src='images/MuvieCastONeSDiff_pipe.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-eccv">AI4VA@ECCV 2024</div><img src='images/MuvieCastONeSDiff_pipe.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning](https://arxiv.org/pdf/2411.10130)
@@ -109,7 +113,7 @@ Zongqi He, Zhe Xiao, Kin-Chung Chan, **Yushen Zuo**, Jun Xiao, Kin-Man Lam
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-eccv">AIM@ECCV 2024</div><img src='images/AIM2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
@@ -120,7 +124,7 @@ Marcos V. Conde, Zhijun Lei, Wen Li, Christos Bampis, Ioannis Katsavounidis, Rad
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2021</div><img src='images/W21.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-cvprw">CVPRW 2021</div><img src='images/W21.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NTIRE 2021 Challenge on Image Deblurring](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf)
@@ -130,7 +134,7 @@ Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, **Yushen Z
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2019</div><img src='images/N19.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-journal">Neurocomputing 2019</div><img src='images/N19.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Low-resolution palmprint image denoising by generative adversarial networks](https://www.sciencedirect.com/science/article/pii/S0925231219307313)
@@ -207,10 +211,10 @@ Shengjie Chen, Shuo Chen, Zhenhua Guo, **Yushen Zuo**
 
 
 # 🎖 Honors and Awards
-- *2025.03*  CVPR 2025 NTIRE Challenge on Short-form UGC Image Super-Resolution - 1st place
-- *2024.08*  AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content - 2nd place
+- *2025.03*  <a href='https://codalab.lisn.upsaclay.fr/competitions/21346'>CVPR 2025 NTIRE Challenge on Short-form UGC Image Super-Resolution</a> - 1st place
+- *2024.08*  <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> - 2nd place
 - *2022.06*  'Stars-of-tomorrow' award of Microsoft Research Asia Intern Program
-- *2021.03*  CVPR 2021 NTIRE Image Deblurring Challenge - Track1. Low Resolution (10 / 60)
+- *2021.03*  <a href='https://competitions.codalab.org/competitions/28073'>CVPR 2021 NTIRE Image Deblurring Challenge</a> - Track1. Low Resolution (10 / 60)
 - *2021.01*  Kaggle NFL 1st and Future - Impact Detection, Silver medal (23 / 459)
 - *2020.12*  Champion of the 1st Ocean Target Detection International Challenge (1 / 151)
 - *2018.05*  Meritorious winner in Interdisciplinary Contest in Modeling (ICM)
