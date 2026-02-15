@@ -1,9 +1,9 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+# 仅定时运行，不随 page_build 触发，避免每次推送都跑、一失败就收邮件
+on:
+  schedule:
+    - cron:  '0 8 * * *'
 
 jobs:
   build:

@@ -13,12 +13,12 @@
     outline: none;
 }
 
-/* 自我介绍中机构名后的小图标（高 DPI：源图 sz=128，显示 20px，Retina 更清晰） */
+/* 自我介绍中机构名后的小图标（显示 16px） */
 .org-icon {
     vertical-align: middle;
-    margin-left: 4px;
-    width: 20px;
-    height: 20px;
+    margin-left: 3px;
+    width: 16px;
+    height: 16px;
     opacity: 0.92;
     image-rendering: -webkit-optimize-contrast;
     image-rendering: crisp-edges;
