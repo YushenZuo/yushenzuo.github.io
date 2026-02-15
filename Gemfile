@@ -19,9 +19,9 @@ gem "github-pages", group: :jekyll_plugins
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
+# 仅保留 GitHub Pages 支持的插件，否则 Actions 会报 "can't satisfy your Gemfile's dependencies"
 group :jekyll_plugins do
   # gem "jekyll-archives"
-  gem "jekyll-feed"
-  gem 'jekyll-sitemap'
-  gem 'hawkins'
+  # jekyll-feed、jekyll-sitemap 已包含在 github-pages 中，无需重复
+  # gem 'hawkins'  # 非 GitHub Pages 支持，会导致 build 失败
 end
