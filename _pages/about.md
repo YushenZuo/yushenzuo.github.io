@@ -20,7 +20,7 @@ Previously, I was a research intern in <a href='https://taco-group.github.io/'>T
 
 Before that, I was a research assistant at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a><img src="https://www.google.com/s2/favicons?domain=polyu.edu.hk&sz=32" alt="" class="org-icon" width="16" height="16">, working under the guidance of <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth K. M. Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Jun Xiao</a>.
 
-Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a><img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=32" alt="" class="org-icon" width="16" height="16">. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a><img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=32" alt="" class="org-icon" width="16" height="16"> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a><img src="https://www.google.com/s2/favicons?domain=tencent.com&sz=32" alt="" class="org-icon" width="16" height="16">. I hold a master's degree from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a><img src="https://www.google.com/s2/favicons?domain=tsinghua.edu.cn&sz=32" alt="" class="org-icon" width="16" height="16"> and a bachelor's degree from <a href='https://en.xidian.edu.cn/'>Xidian University</a><img src="https://www.google.com/s2/favicons?domain=xidian.edu.cn&sz=32" alt="" class="org-icon" width="16" height="16">. 
+Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a><img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=32" alt="" class="org-icon" width="16" height="16">. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a><img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=32" alt="" class="org-icon" width="16" height="16"> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a><img src="https://www.google.com/s2/favicons?domain=tencent.com&sz=32" alt="" class="org-icon" width="16" height="16">. I hold a master's degree from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a><img src="https://icons.duckduckgo.com/ip3/www.tsinghua.edu.cn.ico" alt="" class="org-icon" width="16" height="16"> and a bachelor's degree from <a href='https://en.xidian.edu.cn/'>Xidian University</a><img src="https://icons.duckduckgo.com/ip3/en.xidian.edu.cn.ico" alt="" class="org-icon" width="16" height="16">. 
 
 I am actively seeking **Research Job & Internship** opportunities worldwide.
 
@@ -69,7 +69,7 @@ I am actively seeking **Research Job & Internship** opportunities worldwide.
 
 **Yushen Zuo**, Qi Zheng, Mingyang Wu, Xinrui Jiang, Renjie Li, Jian Wang, Yide Zhang, Gengchen Mai, Lihong V. Wang, James Zou, Xiaoyu Wang, Ming-Hsuan Yang, Zhengzhong Tu
 
-<a href='https://4kagent.github.io/'>Project Page</a> & <a href='https://github.com/taco-group/4KAgent'>GitHub <img src="https://img.shields.io/github/stars/taco-group/4KAgent" alt="GitHub stars"></a>
+<a href='https://4kagent.github.io/'>Project Page</a> / <a href='https://github.com/taco-group/4KAgent'>GitHub <img src="https://img.shields.io/github/stars/taco-group/4KAgent" alt="GitHub stars"></a>
 
 </div>
 </div>
