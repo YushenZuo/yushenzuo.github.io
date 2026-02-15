@@ -128,12 +128,14 @@ h1:before, .anchor:before {
 }
 
 .badge {
-    padding: 0.35em 1rem;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
+    padding: 0.4em 1rem;
+    color: rgba(255, 255, 255, 0.95);
+    background-color: rgba(0, 54, 159, 0.85);
+    font-size: 0.95em;
+    font-weight: 600;
     margin-bottom: 0.5em;
     flex-shrink: 0;
+    border-radius: 6px;
 }
 .paper-box-image .badge {
     /* 在 paper-box 内：badge 在图片上方、不超出左边界 */
@@ -141,9 +143,9 @@ h1:before, .anchor:before {
     margin-left: 0;
     margin-top: 0;
 }
-.badge-neurips { background-color: #1a1a2e; }
-.badge-iccv  { background-color: #16213e; }
-.badge-icassp { background-color: #4a5568; }
-.badge-eccv  { background-color: #2c5282; }
-.badge-cvprw { background-color: #2d3748; }
-.badge-journal { background-color: #553c9a; }
+.badge-neurips { background-color: rgba(26, 26, 46, 0.88); }
+.badge-iccv  { background-color: rgba(22, 33, 62, 0.88); }
+.badge-icassp { background-color: rgba(74, 85, 104, 0.88); }
+.badge-eccv  { background-color: rgba(44, 82, 130, 0.88); }
+.badge-cvprw { background-color: rgba(45, 55, 72, 0.88); }
+.badge-journal { background-color: rgba(85, 60, 154, 0.88); }
