@@ -1,5 +1,4 @@
----
----
+--- ---
 
 /*
  *    Minimal Mistakes Jekyll Theme
@@ -9,14 +8,21 @@
  *  - https://twitter.com/mmistakes
  */
 /* 占位：满足 front matter 后报「应为 {」的 linter */
-._scss-lint-placeholder { outline: none; }
-
-/* 自我介绍中机构名后的小图标 */
-.org-icon {
-  vertical-align: middle;
-  margin-left: 3px;
-  opacity: 0.9;
+._scss-lint-placeholder {
+    outline: none;
 }
+
+/* 自我介绍中机构名后的小图标（高 DPI：源图 sz=128，显示 20px，Retina 更清晰） */
+.org-icon {
+    vertical-align: middle;
+    margin-left: 4px;
+    width: 20px;
+    height: 20px;
+    opacity: 0.92;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+}
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -62,17 +68,19 @@
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
     }
 
-    .paper-box-image{
+    .paper-box-image {
         justify-content: center;
         display: flex;
         width: 100%;
         order: 2;
-        > div {
+
+        >div {
             position: relative;
             display: flex;
             flex-direction: column;
             align-items: flex-start;
         }
+
         img {
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
@@ -83,23 +91,28 @@
 
     .paper-box-text a {
         text-decoration: none;
-        &:hover { text-decoration: none; } /* 仅用全局 border-bottom，避免双下划线 */
+
+        &:hover {
+            text-decoration: none;
+        }
+
+        /* 仅用全局 border-bottom，避免双下划线 */
     }
 
-    .paper-box-text{
+    .paper-box-text {
         max-width: 100%;
         order: 1;
     }
 
     @include breakpoint($medium) {
-        .paper-box-image{
+        .paper-box-image {
             justify-content: left;
             min-width: 200px;
             max-width: 40%;
             order: 1;
         }
 
-        .paper-box-text{
+        .paper-box-text {
             justify-content: left;
             padding-left: 2em;
             max-width: 60%;
@@ -113,24 +126,37 @@
 /* News "More" collapsible */
 .news-more {
     margin-top: 0.5em;
+
     summary {
         cursor: pointer;
         font-weight: 600;
         color: $info-color;
         list-style: none;
-        &::-webkit-details-marker { display: none; }
-        &::before { content: "▶ "; font-size: 0.75em; }
+
+        &::-webkit-details-marker {
+            display: none;
+        }
+
+        &::before {
+            content: "▶ ";
+            font-size: 0.75em;
+        }
     }
-    &[open] summary::before { content: "▼ "; }
+
+    &[open] summary::before {
+        content: "▼ ";
+    }
 }
 
 $scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
+
+h1:before,
+.anchor:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
     margin-top: -$scroll_offset;
 }
 
@@ -144,15 +170,34 @@ h1:before, .anchor:before {
     flex-shrink: 0;
     border-radius: 6px;
 }
+
 .paper-box-image .badge {
     /* 在 paper-box 内：badge 在图片上方、不超出左边界 */
     position: relative;
     margin-left: 0;
     margin-top: 0;
 }
-.badge-neurips { background-color: rgba(26, 26, 46, 0.88); }
-.badge-iccv  { background-color: rgba(22, 33, 62, 0.88); }
-.badge-icassp { background-color: rgba(74, 85, 104, 0.88); }
-.badge-eccv  { background-color: rgba(44, 82, 130, 0.88); }
-.badge-cvprw { background-color: rgba(45, 55, 72, 0.88); }
-.badge-journal { background-color: rgba(85, 60, 154, 0.88); }
+
+.badge-neurips {
+    background-color: rgba(26, 26, 46, 0.88);
+}
+
+.badge-iccv {
+    background-color: rgba(22, 33, 62, 0.88);
+}
+
+.badge-icassp {
+    background-color: rgba(74, 85, 104, 0.88);
+}
+
+.badge-eccv {
+    background-color: rgba(44, 82, 130, 0.88);
+}
+
+.badge-cvprw {
+    background-color: rgba(45, 55, 72, 0.88);
+}
+
+.badge-journal {
+    background-color: rgba(85, 60, 154, 0.88);
+}
