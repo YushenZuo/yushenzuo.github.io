@@ -62,7 +62,7 @@ I am actively seeking **Research Job & Internship** opportunities worldwide.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-neurips">NeurIPS 2025</div><img src='images/Personal_Website_4KAgent.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-neurips">NeurIPS 2025</div><img src='images/Personal_Website_4KAgent.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [4KAgent: Agentic Any Image to 4K Super-Resolution](https://arxiv.org/pdf/2507.07105)
@@ -74,7 +74,7 @@ I am actively seeking **Research Job & Internship** opportunities worldwide.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-iccv">ICCV 2025</div><img src='images/DiffPure_VLM.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-iccv">ICCV 2025</div><img src='images/DiffPure_VLM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks](https://arxiv.org/abs/2504.01308)
@@ -89,7 +89,7 @@ Jiawei Wang\*, **Yushen Zuo\***, Yuanjun Chai, Zhendong Liu, Yicheng Fu, Yichun 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-icassp">ICASSP 2025</div><img src='images/SIDGaussian.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-icassp">ICASSP 2025</div><img src='images/SIDGaussian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization](https://arxiv.org/pdf/2501.11508)
@@ -102,7 +102,7 @@ Zongqi He, Zhe Xiao, Kin-Chung Chan, **Yushen Zuo**, Jun Xiao, Kin-Man Lam
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-eccv">AI4VA@ECCV 2024</div><img src='images/MuvieCastONeSDiff_pipe.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-eccv">AI4VA@ECCV 2024</div><img src='images/MuvieCastONeSDiff_pipe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning](https://arxiv.org/pdf/2411.10130)
@@ -113,7 +113,7 @@ Zongqi He, Zhe Xiao, Kin-Chung Chan, **Yushen Zuo**, Jun Xiao, Kin-Man Lam
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-eccv">AIM@ECCV 2024</div><img src='images/AIM2024.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-eccv">AIM@ECCV 2024</div><img src='images/AIM2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
@@ -124,7 +124,7 @@ Marcos V. Conde, Zhijun Lei, Wen Li, Christos Bampis, Ioannis Katsavounidis, Rad
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-cvprw">CVPRW 2021</div><img src='images/W21.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-cvprw">CVPRW 2021</div><img src='images/W21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NTIRE 2021 Challenge on Image Deblurring](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Nah_NTIRE_2021_Challenge_on_Image_Deblurring_CVPRW_2021_paper.pdf)
@@ -134,7 +134,7 @@ Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, **Yushen Z
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-journal">Neurocomputing 2019</div><img src='images/N19.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-journal">Neurocomputing 2019</div><img src='images/N19.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Low-resolution palmprint image denoising by generative adversarial networks](https://www.sciencedirect.com/science/article/pii/S0925231219307313)
