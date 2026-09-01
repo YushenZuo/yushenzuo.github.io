@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am **Yushen Zuo**, a first-year PhD student at the <a href='https://www.anu.edu.au/'>Australian National University (ANU)</a><img src="https://www.google.com/s2/favicons?domain=anu.edu.au&sz=128" alt="" class="org-icon" width="16" height="16">, working on image / video generation under the guidance of <a href='https://zheng-lab-anu.github.io/'>Prof. Zheng Liang</a>.
+Hello, I am **Yushen Zuo**, a first-year PhD student at the <a href='https://www.anu.edu.au/'>Australian National University (ANU)</a><img src="https://www.google.com/s2/favicons?domain=anu.edu.au&sz=128" alt="" class="org-icon" width="16" height="16">, working on image / video generation under the guidance of <a href='https://zheng-lab-anu.github.io/'>Prof. Zheng Liang</a>. I am also currently a research intern at <a href='https://www.visko.ai/'>Visko Platform</a><img src="https://www.google.com/s2/favicons?domain=visko.ai&sz=128" alt="" class="org-icon" width="16" height="16">.
 
 **Research Interest:** Image & video generation, Vision-Language Models, Agentic AI, Embodied AI.
 
@@ -22,7 +22,7 @@ Before that, I was a research assistant at <a href='https://www.polyu.edu.hk/'>T
 
 Prior to this, I was an Applied Scientist at <a href='https://www.microsoft.com/en-us'>Microsoft</a><img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=128" alt="" class="org-icon" width="16" height="16">. Before that, I was interned at <a href='https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/'>Microsoft Research Asia</a><img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=128" alt="" class="org-icon" width="16" height="16"> and <a href='https://github.com/TencentYoutuResearch'>Tencent Youtu Lab</a><img src="https://www.google.com/s2/favicons?domain=tencent.com&sz=128" alt="" class="org-icon" width="16" height="16">. I hold a master's degree from <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a><img src="https://icons.duckduckgo.com/ip3/www.tsinghua.edu.cn.ico" alt="" class="org-icon" width="16" height="16"> and a bachelor's degree from <a href='https://en.xidian.edu.cn/'>Xidian University</a><img src="images/Xidian_Logo.svg" alt="" class="org-icon" width="16" height="16">. 
 
-I am actively seeking **Research Job & Internship** opportunities worldwide.
+I am actively seeking **Research Job & Internship** opportunities worldwide in video generation and world models.
 
 <a href="cv/CV_YushenZuo_Oct2025_v2.pdf">CV</a> · <a href="mailto:zuoyushen12@gmail.com">zuoyushen12@gmail.com</a> · <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'>Google Scholar</a> <a href='https://scholar.google.com/citations?user=C2CDJOoAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="citations"></a>
 
@@ -41,6 +41,8 @@ I am actively seeking **Research Job & Internship** opportunities worldwide.
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 We release <a href='https://arxiv.org/pdf/2607.26694'>Visko Orbis 1.0</a>, a live model for real-time, interactive long-video generation. It supports text-to-video, image-to-video, video continuation, and in-generation prompt switching, delivering 4K video at 24 FPS while maintaining visual consistency over hour-long rollouts.
+- *2026.07*: &nbsp;🎉🎉 We release <a href='https://arxiv.org/pdf/2607.25895'>HiFi-UMI</a>, a portable, high-fidelity UMI data-production system that enables manipulation policies trained solely on robot-free demonstrations to deploy directly on real robots. We also open-source <a href='https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K'>HiFi-UMI-2K</a>, a 2,000-hour dataset of microsecond-synchronized, ultra-wide-FoV demonstrations. The paper ranked **#1 on Hugging Face Daily Papers**, and the dataset received **180K+ downloads last month**.
 - *2025.09*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2507.07105'>4KAgent: Agentic Any Image to 4K Super-Resolution</a> is accepted by **NeurIPS 2025** (<a href='https://github.com/taco-group/4KAgent'>Code</a>, <a href='https://4kagent.github.io/'>Project Page</a> and <a href='https://huggingface.co/papers/2507.07105'>Hugging Face Page</a>).
 - *2025.06*: &nbsp;🎉🎉 Our paper <a href='https://arxiv.org/pdf/2504.01308'>Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks</a> is accepted by **ICCV 2025** (<a href='https://github.com/JarvisUSTC/DiffPure-RobustVLM'>Code</a> and <a href='https://huggingface.co/Jarvis1111/MiniGPT4-RobustVLGuard'>Hugging Face Page</a>).
 - *2025.03*: &nbsp;🎉🎉 **1st place** in <a href='https://codalab.lisn.upsaclay.fr/competitions/21346'>NTIRE 2025 Challenge on Short-form UGC Image Super-Resolution</a> **in CVPR 2025**.
@@ -61,6 +63,28 @@ I am actively seeking **Research Job & Internship** opportunities worldwide.
 </details> 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-tech-report">Tech Report</div><img src='images/ViskoOrbis1.png' alt="Visko Orbis 1.0 overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Visko Orbis 1.0: A Live Model for Real-Time Interactive Long Video Generation](https://arxiv.org/pdf/2607.26694)
+
+**Team Visko**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-tech-report">Tech Report</div><img src='images/HIFI-UMI.png' alt="HiFi-UMI overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone](https://arxiv.org/pdf/2607.25895)
+
+Yuteng Wei, Jinming Ma, Jiawei Wang, Weitao Zhou, **Yushen Zuo**, Ke Rui, Minglei Li, Jinhao Zhang, Zhikang Pan, Xiang Wang, Haoran Jia, Huan Du, Zicheng Zeng, Jun Ma, Guiyu Qin, Di Zhang, Xiaofei Li
+
+<a href='https://cloud.simpleai.tech/simple-world-lab/hifi-umi/'>Project Page</a> / <a href='https://huggingface.co/datasets/simple-world-lab/HiFi-UMI-2K'>Dataset</a>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge badge-neurips">NeurIPS 2025</div><img src='images/Personal_Website_4KAgent.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
