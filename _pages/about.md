@@ -71,6 +71,8 @@ I am actively seeking **Research Job & Internship** opportunities worldwide in v
 
 **Team Visko**
 
+<a href='https://www.visko.ai/models#orbis'>Project Page</a>
+
 </div>
 </div>
 
